@@ -22,7 +22,7 @@ interface Question {
 
 export default function Quiz() {
   const { play } = useSound();
-  const questions = questionsData as Question[];
+  const questions = questionsData as unknown as Question[];
   const games = gamesData as Game[];
 
   const [currentStep, setCurrentStep] = useState(0);
