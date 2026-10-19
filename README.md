@@ -1,148 +1,168 @@
-# 🎮 POKÉDEX OF GAMES (Main Series Archive)
+# 🔴 POKÉDEX OF GAMES (Main Series Archive)
 
-> An authentic, retro-styled multi-page fan website documenting every mainline Pokémon game from 1996 to the present day. Built with Vite, React, TypeScript, Tailwind CSS, and Framer Motion.
+<p align="center">
+  <img src="public/favicon.svg" width="100" height="100" alt="Pokédex of Games Logo" />
+</p>
 
----
+<p align="center">
+  <strong>An authentic, retro-styled interactive encyclopedia documenting every mainline Pokémon game from 1996 through the future.</strong>
+</p>
 
-## 🌟 Key Features
-
-- **Classic Game Boy & DS UI Aesthetics**:
-  - Chunky 4px stepped borders, retro pixel shadows, and custom fonts (*Press Start 2P* & *Pixelify Sans*).
-  - Procedural **8-bit Web Audio API sound engine** for menu blips, select sounds, text-ticks, and battle whooshes — without external audio assets.
-  - Interactive **DialogueBox** featuring typewriter character reveal and blinking advance arrows.
-  - Authentic **HP-Bar Stat Meters** (green → yellow → red) rating Story, Graphics, Difficulty, and Replayability.
-  - **Pokédex Device Dual-Screen View** on the Games Browser with live filters (Generation, Region, Console, Search, Sort).
-  - Interactive **Starters Table** with 3 clickable Poké Balls and "Do you choose this Pokémon?" prompt modal.
-  - **Horizontal Journey Chronology Timeline** scrolling from 1996 through upcoming releases.
-  - **Versus Comparison Benchmarking** with simulated HP-bar battle animations.
-  - **Matchmaker Personality Quiz** recommending your ideal game inside an official Trainer Passport Card.
-  - **Trainer Cartridge Shelf** tracking owned, played, and starred games in `localStorage`.
-  - **Day / Night Theme Toggle** swapping palettes between daytime and nocturnal game worlds.
-  - **Easter Eggs**:
-    - **Konami Code** (`↑ ↑ ↓ ↓ ← → ← → B A`): Triggers a wild Pikachu encounter with dialogue box!
-    - **Shiny Sparkle Mode**: Click the Pokéball logo 5 times in the header to trigger site-wide prismatic shiny sparkles!
-    - **MissingNo. 404 Page**: Glitched retro dialogue encounter.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19.3-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-8.3-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-14.3-black?logo=framer&logoColor=white&style=for-the-badge" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 Overview & Aesthetic
 
-- **Framework**: [React 19](https://react.dev/) + [Vite 8](https://vitejs.dev/)
-- **Language**: [TypeScript 5+](https://www.typescriptlang.org/)
-- **Routing**: [React Router 7](https://reactrouter.com/) (fully code-split with `React.lazy`)
-- **Animation**: [Framer Motion](https://www.framer.com/motion/)
-- **State Management**: [Zustand](https://github.com/pmndrs/zustand) with `persist` middleware
-- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/) + Custom CSS Design Tokens
-- **Data & API**: Static verified JSON schema (`games.json`, `regions.json`, `quiz-questions.json`) + [PokéAPI](https://pokeapi.co) with `localStorage` caching
+**Pokédex of Games** is built to look, sound, and feel like it **IS** a Pokémon game. Designed with a blend of Game Boy Advance and Nintendo DS-era UI nostalgia, every page incorporates:
+
+- **Chunky 4px Stepped Pixel Borders & Stepped Shadows** (no smooth modern drop-shadows).
+- **Authentic Google Pixel Fonts**: *Press Start 2P* for retro labels/headers and *Pixelify Sans* for crisp, readable body text.
+- **Synthesized 8-Bit Web Audio API Sound Engine**: Procedurally generated menu blips, select confirmation chimes, cancel sounds, dialogue text-ticks, and battle whooshes — **zero external audio file dependencies**.
+- **Professor Oak Dialogue Boxes**: Typewriter character animations with blinking `▼` advance cursors and click-to-skip functionality.
+- **HP-Bar Stat Meters**: Segmented green-to-yellow-to-red meters evaluating Story, Graphics, Difficulty, and Replayability.
+- **Day / Night Cycle**: Instant theme toggle altering palettes between sunny overworld daylight and nocturnal deep-navy shades.
+- **Live Sprite Feeds**: Direct integration with [PokéAPI](https://pokeapi.co) caching official sprites in `localStorage`.
 
 ---
 
-## 🚀 Getting Started
+## 🗺️ Archive Pages & Features
 
-### 1. Prerequisites
-Ensure you have **Node.js (v18+)** and **npm** installed on your machine.
+### 1. 📺 Title Screen (`/`)
+- Faux classic Game Boy start screen with animated starry night skies, grass silhouettes, and rocking Pokéball.
+- Click anywhere or press <kbd>Enter</kbd> / <kbd>Space</kbd> to reveal the in-game Start Menu with a blinking `▶` cursor and keyboard navigation (<kbd>↑</kbd>/<kbd>↓</kbd>/<kbd>Enter</kbd>).
 
-### 2. Installation
-Clone the repository or navigate to the project directory:
+### 2. 📟 Games Browser (`/games`)
+- **Pokédex Dual-Screen View**:
+  - **Left Screen**: Scrollable electronic cartridge directory of all 39 mainline games.
+  - **Right Screen**: Stylized LCD monitor displaying live specs, starter trios, mascot sprites, and Professor Oak's research summary.
+- **Grid View Mode**: Switch seamlessly to responsive cartridge-style cards.
+- **Live Search & Multi-Filters**: Filter simultaneously by **Generation (Gen 1–9)**, **Region**, **Console/Platform**, and **Search query** (title, mascot, region).
+- **Flexible Sorting**: Sort by Release Order, Newest First, Chronological Year, or Title A-Z.
 
+### 3. 📖 Game Detail Dossiers (`/games/:slug`)
+Every game page dynamically adopts that game's **canonical version accent color** and provides:
+1. **Header**: Full release chronology across Japan, North America, and Europe, developer, publisher, and platform specs.
+2. **Overview**: Flavor narrative written in Professor Oak's classic field journal tone inside an interactive DialogueBox.
+3. **Region Cartography**: Stylized pixel-art topographic map placeholder of the game's setting.
+4. **Starter & Mascot Gallery**: High-res sprites with Dex numbers and type affiliations.
+5. **Key Mechanics**: Historical innovations introduced in that title (e.g. Physical/Special split, Mega Evolution, Terastallization).
+6. **League Gauntlet**: Full breakdown of all 8 Gym Leaders (with badges and types), Elite Four members, and reigning Champion.
+7. **Rival & Villain Team**: Profiles detailing journey rivals and villainous syndicates (leaders & motives).
+8. **Development Trivia**: Verified historical facts, glitches, and CoroCoro lore.
+9. **Editorial Ratings**: Segmented HP-bar ratings for Story, Visuals, Difficulty, and Replayability.
+10. **Version Exclusives**: Breakdown of Pokémon requiring trades with companion versions.
+11. **DLC Adventures**: Detailed release info for expansion passes (The Isle of Armor, The Crown Tundra, The Teal Mask, The Indigo Disk).
+12. **Navigation**: Seamless previous/next game navigation via on-screen buttons or <kbd>←</kbd> / <kbd>→</kbd> arrow keys.
+
+### 4. 📅 Timeline Journey (`/timeline`)
+- A horizontally scrolling chronological track from 1996 in Pallet Town to the future of Lumiose City.
+- Nodes feature hardware console badges (`GB`, `GBC`, `GBA`, `DS`, `3DS`, `Switch`, `Switch 2`), sprite nodes, and live dialogue previews.
+
+### 5. 🗺️ Regional Geography (`/regions`)
+- Explore all 10 major territories: **Kanto**, **Johto**, **Hoenn**, **Sinnoh**, **Hisui**, **Unova**, **Kalos**, **Alola**, **Galar**, and **Paldea**.
+- Includes real-world geographic inspirations (e.g. Iberian Peninsula, Hokkaido, France, Hawaii, New York), native biodiversity sprites, and canon games set there.
+
+### 6. ⭐ Choose Your Starter (`/starters`)
+- Step into the Pokémon Laboratory: three Poké Balls rest on a wooden table.
+- Click any ball to inspect the partner with an authentic **"Do you choose this Pokémon?" YES/NO** prompt modal.
+- Includes complete evolution trios across all 9 generations.
+
+### 7. ⚔️ Head-to-Head Compare (`/compare`)
+- Select any two mainline releases to benchmark features, platforms, starters, and editorial stats side-by-side.
+- Features a **Simulated HP-Bar Battle Judge** calculating a battle verdict based on feature sets and ratings.
+
+### 8. ❓ Matchmaker Personality Quiz (`/quiz`)
+- An 8-question personality assessment in dialogue box format determining your Pokémon playstyle.
+- Culminates in a personalized **Trainer Card Passport** recommending your ideal game destination.
+
+### 9. 📦 Trainer Cartridge Shelf (`/collection`)
+- Interactive wooden shelf displaying your real-world collection.
+- Mark any game as **Owned**, **Completed**, or **Favorited** to populate your shelf with authentic pixel cartridges and track your live completion percentage.
+
+### 10. ℹ️ About & Citations (`/about`)
+- Architectural documentation, data source citations ([PokéAPI](https://pokeapi.co), Bulbapedia, Serebii), and non-commercial fair-use disclaimers.
+
+---
+
+## 🥚 Easter Eggs & Secrets
+
+- **Wild Pikachu Encounter**: Enter the classic **Konami Code** on your keyboard anywhere on the site:
+  $$\uparrow\ \uparrow\ \downarrow\ \downarrow\ \leftarrow\ \rightarrow\ \leftarrow\ \rightarrow\ \text{B}\ \text{A}$$
+- **Shiny Sparkle Mode**: Click the Pokéball icon in the top-left header **5 times** in succession to trigger site-wide rainbow shiny sparkles!
+- **MissingNo. 404**: Navigate to any invalid route (e.g. `/missingno`) to encounter the glitched wild MissingNo. dialogue box.
+
+---
+
+## 💻 Tech Stack & Architecture
+
+| Layer | Technology |
+|---|---|
+| **Core Framework** | [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/) |
+| **Bundler** | [Vite 8](https://vitejs.dev/) with Rollup chunk splitting |
+| **Routing** | [React Router 7](https://reactrouter.com/) (all pages lazy-loaded via `React.lazy` & `Suspense`) |
+| **Animations** | [Framer Motion 14](https://www.framer.com/motion/) |
+| **Global State** | [Zustand 5](https://github.com/pmndrs/zustand) with `persist` middleware (`localStorage`) |
+| **Styling** | [Tailwind CSS v4](https://tailwindcss.com/) + Custom CSS Design Tokens |
+| **Sound Synthesis** | Web Audio API Oscillator & Gain Nodes (Zero external audio files) |
+| **External API** | [PokéAPI](https://pokeapi.co) with TTL memory & `localStorage` caching |
+| **Hosting** | [Vercel](https://vercel.com) (configured with SPA rewrites via `vercel.json`) |
+
+---
+
+## ⚡ Quick Start
+
+### 1. Clone & Install
 ```bash
+git clone https://github.com/Mhelric/Pokemon-Series.git
 cd Pokemon-Series
 npm install
 ```
 
-### 3. Running the Development Server
-To launch the hot-reloading dev server:
-
+### 2. Run Locally
 ```powershell
 powershell -ExecutionPolicy Bypass -Command "npx vite"
 ```
-Or simply:
+Or with standard npm:
 ```bash
 npm run dev
 ```
+Open **`http://localhost:5173/`** in your browser.
 
-Open your browser at **`http://localhost:5173/`**.
-
----
-
-## 🏗️ Production Build & Verification
-
-To compile the production build:
-
+### 3. Production Build
 ```bash
 npm run build
-```
-
-To preview the production build locally:
-
-```bash
 npx vite preview
 ```
 
 ---
 
-## 🌐 Deployment Instructions
+## 🌐 Deployment Configuration
 
-The project is pre-configured with relative base paths (`base: './'`), making it 100% ready for static hosting on any platform:
+The repository includes a [`vercel.json`](./vercel.json) file configured for Single Page Application routing:
 
-### Vercel
-1. Push code to GitHub.
-2. Import repository in [Vercel](https://vercel.com).
-3. Framework Preset: **Vite**.
-4. Deploy!
-
-### Netlify
-1. Drag and drop the `dist/` directory onto Netlify Drop, or link your git repo.
-2. Build command: `npm run build`.
-3. Publish directory: `dist`.
-
-### GitHub Pages
-1. Run `npm run build`.
-2. Push the contents of the `dist/` folder to your `gh-pages` branch.
-
----
-
-## 📝 Data Maintenance & Update Guide
-
-All game archives live in:
-- `src/data/games.json`
-- `src/data/regions.json`
-- `src/data/quiz-questions.json`
-
-### Adding a New Mainline Game:
-1. Open `src/data/games.json`.
-2. Append a new object complying with the `Game` interface in `src/data/types.ts`:
 ```json
 {
-  "id": 40,
-  "slug": "pokemon-new-game",
-  "title": "Pokémon New Title",
-  "pairedWith": [],
-  "generation": 10,
-  "region": "NewRegion",
-  "platform": "Nintendo Switch 2",
-  "releaseDates": { "jp": "2026-11-20", "na": "2026-11-20", "eu": "2026-11-20" },
-  "developer": "Game Freak",
-  "publisher": "Nintendo",
-  "starters": [ ... ],
-  "mascotPokemon": [ ... ],
-  "features": [ ... ],
-  "gymLeaders": [ ... ],
-  "eliteFour": [ ... ],
-  "champion": "ChampionName",
-  "rival": "RivalName",
-  "villainTeam": { "name": "TeamName", "leader": "LeaderName", "goal": "Goal" },
-  "trivia": [ ... ],
-  "versionExclusives": [ ... ],
-  "themeColor": "#HEXCOLOR",
-  "overview": "Professor Oak style intro text",
-  "stats": { "story": 8, "graphics": 9, "difficulty": 7, "replayability": 9 }
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
 }
 ```
-3. The Games Browser, Timeline, Starters, Compare, and Collection pages will dynamically ingest the new entry without any code changes!
+
+Whenever commits are pushed to the `main` branch, Vercel automatically deploys the updated build!
 
 ---
 
-## ⚖️ Legal Disclaimer
+## 📜 Legal Disclaimer
 
-This is an unofficial, non-commercial fan project. Pokémon and Pokémon character names are trademarks of Nintendo, Game Freak, Creatures Inc., and The Pokémon Company.
+This is an unofficial, non-commercial fan project created under fair use for educational and archival purposes. Pokémon and all related character names, logos, and trademarks are registered trademarks of **Nintendo**, **Game Freak**, **Creatures Inc.**, and **The Pokémon Company**. This project is not affiliated with or endorsed by them in any capacity.
