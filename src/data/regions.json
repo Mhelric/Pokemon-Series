@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Kanto",
+    "slug": "kanto",
+    "realWorldInspiration": "Kantō region, Japan",
+    "description": "The cradle of Pokémon research and home to Professor Oak's laboratory. Characterized by rural routes, winding cycling roads, coastal ports, and the bustling urban core of Saffron City.",
+    "games": ["pokemon-red", "pokemon-green", "pokemon-blue", "pokemon-yellow", "pokemon-firered", "pokemon-leafgreen", "pokemon-lets-go-pikachu", "pokemon-lets-go-eevee"],
+    "signaturePokemon": [
+      { "name": "Pikachu", "dexNumber": 25 },
+      { "name": "Charizard", "dexNumber": 6 },
+      { "name": "Mewtwo", "dexNumber": 150 }
+    ],
+    "themeColor": "#FF1111"
+  },
+  {
+    "name": "Johto",
+    "slug": "johto",
+    "realWorldInspiration": "Kansai and Chūbu regions, Japan",
+    "description": "A historic and spiritually rooted land steeped in mythology, pagodas, and ancient towers. Revered for its deep connection to the legendary birds Ho-Oh and Lugia.",
+    "games": ["pokemon-gold", "pokemon-silver", "pokemon-crystal", "pokemon-heartgold", "pokemon-soulsilver"],
+    "signaturePokemon": [
+      { "name": "Typhlosion", "dexNumber": 157 },
+      { "name": "Lugia", "dexNumber": 249 },
+      { "name": "Ho-Oh", "dexNumber": 250 }
+    ],
+    "themeColor": "#DAA520"
+  },
+  {
+    "name": "Hoenn",
+    "slug": "hoenn",
+    "realWorldInspiration": "Kyushu island, Japan",
+    "description": "An ecologically vibrant, tropical archipelago abundant with lush nature, an active volcano, expansive oceanic dive trenches, and dramatic weather patterns.",
+    "games": ["pokemon-ruby", "pokemon-sapphire", "pokemon-emerald", "pokemon-omega-ruby", "pokemon-alpha-sapphire"],
+    "signaturePokemon": [
+      { "name": "Blaziken", "dexNumber": 257 },
+      { "name": "Rayquaza", "dexNumber": 384 },
+      { "name": "Groudon", "dexNumber": 383 }
+    ],
+    "themeColor": "#00A040"
+  },
+  {
+    "name": "Sinnoh",
+    "slug": "sinnoh",
+    "realWorldInspiration": "Hokkaido island, Japan",
+    "description": "A mountainous, snow-kissed northern region crowned by the sacred Mt. Coronet. Deeply tied to the creation legends of time, space, and antimatter.",
+    "games": ["pokemon-diamond", "pokemon-pearl", "pokemon-platinum", "pokemon-brilliant-diamond", "pokemon-shining-pearl"],
+    "signaturePokemon": [
+      { "name": "Lucario", "dexNumber": 448 },
+      { "name": "Garchomp", "dexNumber": 445 },
+      { "name": "Dialga", "dexNumber": 483 }
+    ],
+    "themeColor": "#5A7FBF"
+  },
+  {
+    "name": "Hisui",
+    "slug": "hisui",
+    "realWorldInspiration": "Historical Ezo / feudal Hokkaido, Japan",
+    "description": "The untamed wilderness of Sinnoh in an ancient era before towns or gym leagues existed. A perilous frontier where people and wild Pokémon lived in cautious separation.",
+    "games": ["pokemon-legends-arceus"],
+    "signaturePokemon": [
+      { "name": "Arceus", "dexNumber": 493 },
+      { "name": "Kleavor", "dexNumber": 900 },
+      { "name": "Zorua (Hisuian)", "dexNumber": 570 }
+    ],
+    "themeColor": "#2B4B73"
+  },
+  {
+    "name": "Unova",
+    "slug": "unova",
+    "realWorldInspiration": "New York metropolitan area, United States",
+    "description": "A bustling, cosmopolitan center featuring massive suspension bridges, soaring skyscrapers in Castelia City, amusement parks, and four dynamic rotating seasons.",
+    "games": ["pokemon-black", "pokemon-white", "pokemon-black-2", "pokemon-white-2"],
+    "signaturePokemon": [
+      { "name": "Zoroark", "dexNumber": 571 },
+      { "name": "Reshiram", "dexNumber": 643 },
+      { "name": "Zekrom", "dexNumber": 644 }
+    ],
+    "themeColor": "#333333"
+  },
+  {
+    "name": "Kalos",
+    "slug": "kalos",
+    "realWorldInspiration": "Metropolitan France",
+    "description": "A star-shaped realm celebrating high fashion, art, romance, and culinary elegance, centered around the radiant Prism Tower of Lumiose City and the dawn of Mega Evolution.",
+    "games": ["pokemon-x", "pokemon-y", "pokemon-legends-za"],
+    "signaturePokemon": [
+      { "name": "Greninja", "dexNumber": 658 },
+      { "name": "Xerneas", "dexNumber": 716 },
+      { "name": "Zygarde", "dexNumber": 718 }
+    ],
+    "themeColor": "#025DA6"
+  },
+  {
+    "name": "Alola",
+    "slug": "alola",
+    "realWorldInspiration": "Hawaii, United States",
+    "description": "A tropical paradise consisting of four natural islands and one artificial preserve. Known for its sacred Guardian Deities, Totem Pokémon Island Trials, and joyous lifestyle.",
+    "games": ["pokemon-sun", "pokemon-moon", "pokemon-ultra-sun", "pokemon-ultra-moon"],
+    "signaturePokemon": [
+      { "name": "Decidueye", "dexNumber": 724 },
+      { "name": "Mimikyu", "dexNumber": 778 },
+      { "name": "Solgaleo", "dexNumber": 791 }
+    ],
+    "themeColor": "#F5A623"
+  },
+  {
+    "name": "Galar",
+    "slug": "galar",
+    "realWorldInspiration": "Great Britain / United Kingdom",
+    "description": "An industrialized land with sprawling countryside hills, quaint brick cottages, modern steam-powered cities, and immense sports-stadium Gyms hosting Dynamax battles.",
+    "games": ["pokemon-sword", "pokemon-shield"],
+    "signaturePokemon": [
+      { "name": "Cinderace", "dexNumber": 815 },
+      { "name": "Corviknight", "dexNumber": 823 },
+      { "name": "Zacian", "dexNumber": 888 }
+    ],
+    "themeColor": "#00BFFF"
+  },
+  {
+    "name": "Paldea",
+    "slug": "paldea",
+    "realWorldInspiration": "Iberian Peninsula (Spain & Portugal)",
+    "description": "A vast, boundless open-world territory crowned by prestigious academies and centered around the mysterious, crystal-veiled depths of the Great Crater (Area Zero).",
+    "games": ["pokemon-scarlet", "pokemon-violet"],
+    "signaturePokemon": [
+      { "name": "Meowscarada", "dexNumber": 908 },
+      { "name": "Tinkaton", "dexNumber": 959 },
+      { "name": "Koraidon", "dexNumber": 1007 }
+    ],
+    "themeColor": "#F04030"
+  }
+]

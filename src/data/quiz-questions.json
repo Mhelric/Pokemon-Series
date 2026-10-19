@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "When stepping into a brand-new region, what is your first instinct?",
+    "options": [
+      { "text": "Challenge every trainer, conquer Gyms, and prove I'm the strongest!", "scores": { "pokemon-emerald": 2, "pokemon-platinum": 2, "pokemon-black-2": 2 } },
+      { "text": "Explore every nook and cranny without anyone telling me where to go.", "scores": { "pokemon-scarlet": 3, "pokemon-violet": 3, "pokemon-legends-arceus": 2 } },
+      { "text": "Unravel ancient local folklore, mythical legends, and historical secrets.", "scores": { "pokemon-heartgold": 2, "pokemon-legends-arceus": 3, "pokemon-platinum": 2 } },
+      { "text": "Take it easy, enjoy the atmosphere, and bond closely with my partner Pokémon.", "scores": { "pokemon-yellow": 2, "pokemon-sun": 2, "pokemon-lets-go-eevee": 3 } }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What kind of visual art style appeals most to your nostalgic soul?",
+    "options": [
+      { "text": "Peak classic 2D pixel art with buttery-smooth animated battle sprites.", "scores": { "pokemon-black": 3, "pokemon-white-2": 3, "pokemon-heartgold": 2 } },
+      { "text": "Chunky, retro Game Boy nostalgia — 8-bit or 16-bit chiptunes and pure charm.", "scores": { "pokemon-red": 3, "pokemon-crystal": 3, "pokemon-emerald": 2 } },
+      { "text": "Vibrant 3D camera sweeps, dynamic lighting, and cinematic action battles.", "scores": { "pokemon-sword": 2, "pokemon-omega-ruby": 2, "pokemon-x": 2 } },
+      { "text": "Expansive open-horizon wilderness with seamless day/night weather vistas.", "scores": { "pokemon-legends-arceus": 3, "pokemon-scarlet": 2, "pokemon-violet": 2 } }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How do you prefer your battle difficulty and tactical depth?",
+    "options": [
+      { "text": "Hardcore! I want ruthless Champion teams with competitive items and fierce AI.", "scores": { "pokemon-platinum": 3, "pokemon-black-2": 3, "pokemon-emerald": 2 } },
+      { "text": "Innovative and kinetic — manual rolling, throwing balls, and real-time danger!", "scores": { "pokemon-legends-arceus": 4 } },
+      { "text": "Grand spectacle! Giant stadium crowds cheering, colossal transformations, and hype music.", "scores": { "pokemon-sword": 3, "pokemon-shield": 3 } },
+      { "text": "Relaxed and comforting, perfect for unwinding on the couch after a long day.", "scores": { "pokemon-lets-go-pikachu": 3, "pokemon-lets-go-eevee": 3, "pokemon-x": 2 } }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What kind of story narrative draws you in?",
+    "options": [
+      { "text": "A philosophical conflict questioning human nature and the morality of battles.", "scores": { "pokemon-black": 4, "pokemon-white": 4 } },
+      { "text": "A cosmic battle against apocalyptic forces threatening the dimensional fabric.", "scores": { "pokemon-platinum": 2, "pokemon-emerald": 3, "pokemon-ultra-sun": 2 } },
+      { "text": "A personal coming-of-age journey full of friendship, school life, and heartfelt discoveries.", "scores": { "pokemon-scarlet": 3, "pokemon-violet": 3, "pokemon-sun": 2 } },
+      { "text": "The classic, straightforward quest to take down a greedy mafia crime syndicate.", "scores": { "pokemon-firered": 3, "pokemon-heartgold": 2, "pokemon-red": 2 } }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Pick your favorite signature game mechanic:",
+    "options": [
+      { "text": "Mega Evolution — unleashing ultimate dormant battle transformations!", "scores": { "pokemon-omega-ruby": 3, "pokemon-x": 3, "pokemon-alpha-sapphire": 3 } },
+      { "text": "Your favorite Pokémon walking faithfully right behind you in the overworld.", "scores": { "pokemon-heartgold": 4, "pokemon-soulsilver": 4, "pokemon-yellow": 2 } },
+      { "text": "The Battle Frontier — endless modular endgame tournament facilities.", "scores": { "pokemon-emerald": 4, "pokemon-platinum": 3 } },
+      { "text": "Terastallization — sparkling crystal hats changing elemental typings on the fly.", "scores": { "pokemon-scarlet": 3, "pokemon-violet": 3 } }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What is your philosophy toward Legendary Pokémon?",
+    "options": [
+      { "text": "Deities of creation, space, time, and antimatter commanding cosmic respect.", "scores": { "pokemon-platinum": 3, "pokemon-diamond": 2, "pokemon-legends-arceus": 2 } },
+      { "text": "Guardians of nature, harmony, seas, and skies resting in tranquil sanctuaries.", "scores": { "pokemon-soulsilver": 3, "pokemon-emerald": 3, "pokemon-crystal": 2 } },
+      { "text": "Loyal companions who travel beside you as your trusted ride mount throughout your tale.", "scores": { "pokemon-scarlet": 3, "pokemon-violet": 3 } },
+      { "text": "Ancient bioweapons, fusion specimens, and otherworldly extraterrestrial beasts.", "scores": { "pokemon-black-2": 3, "pokemon-ultra-sun": 3, "pokemon-x": 2 } }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Which setting feels most like home to you?",
+    "options": [
+      { "text": "Traditional wooden shrines, cherry blossoms, and sacred bell towers.", "scores": { "pokemon-heartgold": 3, "pokemon-soulsilver": 3, "pokemon-crystal": 2 } },
+      { "text": "A bustling metropolis with suspension bridges, subways, and neon avenues.", "scores": { "pokemon-black": 3, "pokemon-black-2": 3, "pokemon-white": 3 } },
+      { "text": "Sun-soaked tropical islands, sandy beaches, and welcoming sea breezes.", "scores": { "pokemon-sun": 3, "pokemon-moon": 3, "pokemon-emerald": 2 } },
+      { "text": "Vast untamed snowfields, rugged mountain trails, and ancient pine forests.", "scores": { "pokemon-legends-arceus": 3, "pokemon-platinum": 2 } }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Finally: what makes a Pokémon journey truly unforgettable?",
+    "options": [
+      { "text": "The sheer wealth of content, side quests, and post-game achievements.", "scores": { "pokemon-black-2": 4, "pokemon-heartgold": 3, "pokemon-emerald": 3 } },
+      { "text": "Total freedom to forge my own path without invisible walls holding me back.", "scores": { "pokemon-scarlet": 3, "pokemon-violet": 3, "pokemon-legends-arceus": 3 } },
+      { "text": "The unforgettable feeling of overcoming a legendary Champion in the final bout.", "scores": { "pokemon-platinum": 3, "pokemon-diamond": 2, "pokemon-emerald": 2 } },
+      { "text": "The pure, unadulterated nostalgia of where my lifelong passion first began.", "scores": { "pokemon-red": 4, "pokemon-firered": 3, "pokemon-yellow": 3 } }
+    ]
+  }
+]

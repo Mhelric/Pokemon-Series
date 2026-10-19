@@ -1,0 +1,5070 @@
+[
+  {
+    "id": 1,
+    "slug": "pokemon-red",
+    "title": "Pokémon Red",
+    "pairedWith": [
+      "pokemon-blue",
+      "pokemon-green"
+    ],
+    "generation": 1,
+    "region": "Kanto",
+    "platform": "Game Boy",
+    "releaseDates": {
+      "jp": "1996-02-27",
+      "na": "1998-09-28",
+      "eu": "1999-10-05"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Bulbasaur",
+        "dexNumber": 1
+      },
+      {
+        "name": "Charmander",
+        "dexNumber": 4
+      },
+      {
+        "name": "Squirtle",
+        "dexNumber": 7
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Charizard",
+        "dexNumber": 6
+      }
+    ],
+    "features": [
+      "The revolutionary beginning: catching and trading 151 monsters",
+      "Link Cable support for head-to-head multiplayer battles",
+      "Non-linear Kanto gym challenge across 8 elemental badges",
+      "Turn-based RPG battle system with elemental type match-ups",
+      "Legendary birds and the elusive Mythical Pokémon Mew"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Brock",
+        "type": "Rock",
+        "badge": "Boulder Badge"
+      },
+      {
+        "name": "Misty",
+        "type": "Water",
+        "badge": "Cascade Badge"
+      },
+      {
+        "name": "Lt. Surge",
+        "type": "Electric",
+        "badge": "Thunder Badge"
+      },
+      {
+        "name": "Erika",
+        "type": "Grass",
+        "badge": "Rainbow Badge"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison",
+        "badge": "Soul Badge"
+      },
+      {
+        "name": "Sabrina",
+        "type": "Psychic",
+        "badge": "Marsh Badge"
+      },
+      {
+        "name": "Blaine",
+        "type": "Fire",
+        "badge": "Volcano Badge"
+      },
+      {
+        "name": "Giovanni",
+        "type": "Ground",
+        "badge": "Earth Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Lorelei",
+        "type": "Ice"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Agatha",
+        "type": "Ghost"
+      },
+      {
+        "name": "Lance",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Blue",
+    "rival": "Blue",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Giovanni",
+      "goal": "Exploiting Pokémon for monetary profit and world domination"
+    },
+    "trivia": [
+      "Satoshi Tajiri conceived Pokémon inspired by his childhood insect collecting hobby.",
+      "Mew was secretly programmed into the game cartridge by Shigeki Morimoto just weeks before release.",
+      "Psychic-type had virtually no weaknesses in Gen 1 due to a coding glitch making Ghost-type ineffective."
+    ],
+    "versionExclusives": [
+      "Ekans",
+      "Arbok",
+      "Oddish",
+      "Gloom",
+      "Vileplume",
+      "Mankey",
+      "Primeape",
+      "Growlithe",
+      "Arcanine",
+      "Scyther",
+      "Electabuzz"
+    ],
+    "themeColor": "#FF1111",
+    "overview": "Hello there! Welcome to the world of Pokémon! Pokémon Red sparked a worldwide cultural phenomenon, placing Pallet Town's young trainer on an unforgettable journey to conquer the Indigo Plateau and record every creature in the Pokédex!",
+    "stats": {
+      "story": 7,
+      "graphics": 6,
+      "difficulty": 7,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 2,
+    "slug": "pokemon-green",
+    "title": "Pokémon Green",
+    "pairedWith": [
+      "pokemon-red",
+      "pokemon-blue"
+    ],
+    "generation": 1,
+    "region": "Kanto",
+    "platform": "Game Boy",
+    "releaseDates": {
+      "jp": "1996-02-27",
+      "na": "N/A",
+      "eu": "N/A"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Bulbasaur",
+        "dexNumber": 1
+      },
+      {
+        "name": "Charmander",
+        "dexNumber": 4
+      },
+      {
+        "name": "Squirtle",
+        "dexNumber": 7
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Venusaur",
+        "dexNumber": 3
+      }
+    ],
+    "features": [
+      "Original Japanese launch title paired with Pocket Monsters Red",
+      "Historical early sprite artwork by Ken Sugimori and Atsuko Nishida",
+      "Exclusive encounter tables differing from the later international Blue",
+      "Birth of the iconic Cerulean Cave and MissingNo. glitch encounters",
+      "Groundwork for Game Freak's innovative creature trading economy"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Brock",
+        "type": "Rock",
+        "badge": "Boulder Badge"
+      },
+      {
+        "name": "Misty",
+        "type": "Water",
+        "badge": "Cascade Badge"
+      },
+      {
+        "name": "Lt. Surge",
+        "type": "Electric",
+        "badge": "Thunder Badge"
+      },
+      {
+        "name": "Erika",
+        "type": "Grass",
+        "badge": "Rainbow Badge"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison",
+        "badge": "Soul Badge"
+      },
+      {
+        "name": "Sabrina",
+        "type": "Psychic",
+        "badge": "Marsh Badge"
+      },
+      {
+        "name": "Blaine",
+        "type": "Fire",
+        "badge": "Volcano Badge"
+      },
+      {
+        "name": "Giovanni",
+        "type": "Ground",
+        "badge": "Earth Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Lorelei",
+        "type": "Ice"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Agatha",
+        "type": "Ghost"
+      },
+      {
+        "name": "Lance",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Blue",
+    "rival": "Blue",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Giovanni",
+      "goal": "Kidnapping rare species to fund an underground criminal empire"
+    },
+    "trivia": [
+      "Never officially released in English outside Japan; international versions were built on the revised Blue engine.",
+      "Green features charmingly bizarre early sprite designs that were later polished for global release.",
+      "Its mascot Venusaur represents the lush flora flourishing across the unspoiled Kanto countryside."
+    ],
+    "versionExclusives": [
+      "Sandshrew",
+      "Sandslash",
+      "Vulpix",
+      "Ninetales",
+      "Bellsprout",
+      "Weepinbell",
+      "Victreebel",
+      "Meowth",
+      "Persian",
+      "Pinsir",
+      "Magmar"
+    ],
+    "themeColor": "#11BB11",
+    "overview": "Ah, the original Japanese masterpiece that initiated it all! Pokémon Green captures the raw, unfiltered passion of Game Freak's earliest ambitions, introducing trainers to the tranquil greenery of Kanto.",
+    "stats": {
+      "story": 7,
+      "graphics": 5,
+      "difficulty": 7,
+      "replayability": 8
+    }
+  },
+  {
+    "id": 3,
+    "slug": "pokemon-blue",
+    "title": "Pokémon Blue",
+    "pairedWith": [
+      "pokemon-red",
+      "pokemon-green"
+    ],
+    "generation": 1,
+    "region": "Kanto",
+    "platform": "Game Boy",
+    "releaseDates": {
+      "jp": "1996-10-15",
+      "na": "1998-09-28",
+      "eu": "1999-10-05"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Bulbasaur",
+        "dexNumber": 1
+      },
+      {
+        "name": "Charmander",
+        "dexNumber": 4
+      },
+      {
+        "name": "Squirtle",
+        "dexNumber": 7
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Blastoise",
+        "dexNumber": 9
+      }
+    ],
+    "features": [
+      "Overhauled graphics, cleaned audio registers, and patched map bugs",
+      "Mascot Blastoise leading the charge on international cartridge art",
+      "Rebalanced wild encounter tables designed for cooperative trading",
+      "Indigo Plateau gauntlet with climatic rival showdown",
+      "The definitive Gen 1 blueprint used to localize Red and Blue worldwide"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Brock",
+        "type": "Rock",
+        "badge": "Boulder Badge"
+      },
+      {
+        "name": "Misty",
+        "type": "Water",
+        "badge": "Cascade Badge"
+      },
+      {
+        "name": "Lt. Surge",
+        "type": "Electric",
+        "badge": "Thunder Badge"
+      },
+      {
+        "name": "Erika",
+        "type": "Grass",
+        "badge": "Rainbow Badge"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison",
+        "badge": "Soul Badge"
+      },
+      {
+        "name": "Sabrina",
+        "type": "Psychic",
+        "badge": "Marsh Badge"
+      },
+      {
+        "name": "Blaine",
+        "type": "Fire",
+        "badge": "Volcano Badge"
+      },
+      {
+        "name": "Giovanni",
+        "type": "Ground",
+        "badge": "Earth Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Lorelei",
+        "type": "Ice"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Agatha",
+        "type": "Ghost"
+      },
+      {
+        "name": "Lance",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Blue",
+    "rival": "Blue",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Giovanni",
+      "goal": "Stealing valuable Pokémon and seizing the Silph Co. Master Ball"
+    },
+    "trivia": [
+      "Originally a mail-order exclusive for CoroCoro Comic readers in Japan before hitting retail stores.",
+      "The North American release combined Japanese Blue's engine with Japanese Red and Green's version-exclusive Pokémon distribution.",
+      "Blastoise's dual water cannons made it an instant icon on playgrounds worldwide."
+    ],
+    "versionExclusives": [
+      "Sandshrew",
+      "Sandslash",
+      "Vulpix",
+      "Ninetales",
+      "Meowth",
+      "Persian",
+      "Bellsprout",
+      "Weepinbell",
+      "Victreebel",
+      "Pinsir",
+      "Magmar"
+    ],
+    "themeColor": "#1111FF",
+    "overview": "Behold, the cool blue waters of competitive spirit! Pokémon Blue introduced refined sprites and legendary encounters, serving as the trusted international companion to Red throughout Pokémania's zenith!",
+    "stats": {
+      "story": 7,
+      "graphics": 6,
+      "difficulty": 7,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 4,
+    "slug": "pokemon-yellow",
+    "title": "Pokémon Yellow: Special Pikachu Edition",
+    "pairedWith": [
+      "pokemon-red",
+      "pokemon-blue"
+    ],
+    "generation": 1,
+    "region": "Kanto",
+    "platform": "Game Boy Color",
+    "releaseDates": {
+      "jp": "1998-09-12",
+      "na": "1999-10-19",
+      "eu": "2000-06-16"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Pikachu",
+        "dexNumber": 25
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Pikachu",
+        "dexNumber": 25
+      }
+    ],
+    "features": [
+      "Walking Pokémon mechanic: Pikachu happily follows behind your avatar",
+      "Pikachu mood meter with voiced sound clips recorded by Ikue Otani",
+      "Anime-inspired narrative featuring Jessie, James, and Meowth encounters",
+      "Opportunity to obtain all three traditional Kanto starters in a single playthrough",
+      "Surfing Pikachu minigame playable when transferring a special event Pikachu"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Brock",
+        "type": "Rock",
+        "badge": "Boulder Badge"
+      },
+      {
+        "name": "Misty",
+        "type": "Water",
+        "badge": "Cascade Badge"
+      },
+      {
+        "name": "Lt. Surge",
+        "type": "Electric",
+        "badge": "Thunder Badge"
+      },
+      {
+        "name": "Erika",
+        "type": "Grass",
+        "badge": "Rainbow Badge"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison",
+        "badge": "Soul Badge"
+      },
+      {
+        "name": "Sabrina",
+        "type": "Psychic",
+        "badge": "Marsh Badge"
+      },
+      {
+        "name": "Blaine",
+        "type": "Fire",
+        "badge": "Volcano Badge"
+      },
+      {
+        "name": "Giovanni",
+        "type": "Ground",
+        "badge": "Earth Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Lorelei",
+        "type": "Ice"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Agatha",
+        "type": "Ghost"
+      },
+      {
+        "name": "Lance",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Blue",
+    "rival": "Blue",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Giovanni",
+      "goal": "Stealing rare specimens alongside the bungling duo Jessie and James"
+    },
+    "trivia": [
+      "Pikachu refuses to evolve into Raichu via Thunder Stone, directly mirroring Ash Ketchum's partner in the anime.",
+      "The starter Pikachu possesses an animated face dialogue box that displays various emotional reactions.",
+      "Your rival's Eevee evolves into Jolteon, Flareon, or Vaporeon depending on early-game battle outcomes."
+    ],
+    "versionExclusives": [
+      "Pikachu",
+      "Mankey",
+      "Primeape",
+      "Growlithe",
+      "Arcanine",
+      "Scyther"
+    ],
+    "themeColor": "#FFD733",
+    "overview": "Remarkable! What a bond between Trainer and partner! Pokémon Yellow brought the beloved animated television series straight into your hands, letting every child adventure shoulder-to-shoulder with Pikachu!",
+    "stats": {
+      "story": 8,
+      "graphics": 7,
+      "difficulty": 8,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 5,
+    "slug": "pokemon-gold",
+    "title": "Pokémon Gold",
+    "pairedWith": [
+      "pokemon-silver",
+      "pokemon-crystal"
+    ],
+    "generation": 2,
+    "region": "Johto",
+    "platform": "Game Boy Color",
+    "releaseDates": {
+      "jp": "1999-11-21",
+      "na": "2000-10-15",
+      "eu": "2001-04-06"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Chikorita",
+        "dexNumber": 152
+      },
+      {
+        "name": "Cyndaquil",
+        "dexNumber": 155
+      },
+      {
+        "name": "Totodile",
+        "dexNumber": 158
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Ho-Oh",
+        "dexNumber": 250
+      }
+    ],
+    "features": [
+      "100 new species expanding the National Pokédex to 251 entries",
+      "Real-time internal clock powering day/night cycles and weekly events",
+      "Pokémon breeding, Daycare mechanics, and introduction of Baby Pokémon",
+      "Steel and Dark types introduced to tame the overpowering Psychic meta",
+      "Entire Kanto region unlocked after beating the Elite Four for 16 total badges"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Falkner",
+        "type": "Flying",
+        "badge": "Zephyr Badge"
+      },
+      {
+        "name": "Bugsy",
+        "type": "Bug",
+        "badge": "Hive Badge"
+      },
+      {
+        "name": "Whitney",
+        "type": "Normal",
+        "badge": "Plain Badge"
+      },
+      {
+        "name": "Morty",
+        "type": "Ghost",
+        "badge": "Fog Badge"
+      },
+      {
+        "name": "Chuck",
+        "type": "Fighting",
+        "badge": "Storm Badge"
+      },
+      {
+        "name": "Jasmine",
+        "type": "Steel",
+        "badge": "Mineral Badge"
+      },
+      {
+        "name": "Pryce",
+        "type": "Ice",
+        "badge": "Glacier Badge"
+      },
+      {
+        "name": "Clair",
+        "type": "Dragon",
+        "badge": "Rising Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Will",
+        "type": "Psychic"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Karen",
+        "type": "Dark"
+      }
+    ],
+    "champion": "Lance",
+    "rival": "Silver",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Archer",
+      "goal": "Hijacking the Goldenrod Radio Tower to broadcast a summons to Giovanni"
+    },
+    "trivia": [
+      "Satoru Iwata compressed the game's code so efficiently that Game Freak was able to fit all of Kanto on the cartridge.",
+      "The climactic battle against Pokémon Trainer Red atop Mt. Silver remains one of gaming's greatest boss fights.",
+      "Introduced Shiny Pokémon, with the Red Gyarados at Lake of Rage as a guaranteed encounter."
+    ],
+    "versionExclusives": [
+      "Spinarak",
+      "Ariados",
+      "Gligar",
+      "Mantine",
+      "Teddiursa",
+      "Ursaring"
+    ],
+    "themeColor": "#DAA520",
+    "overview": "Astounding scientific progress! Pokémon Gold expanded our horizons beyond Kanto into traditional Johto, gifting us with the mystery of Pokémon Eggs, real-world temporal cycles, and the resplendent rainbow wings of Ho-Oh!",
+    "stats": {
+      "story": 9,
+      "graphics": 8,
+      "difficulty": 7,
+      "replayability": 10
+    }
+  },
+  {
+    "id": 6,
+    "slug": "pokemon-silver",
+    "title": "Pokémon Silver",
+    "pairedWith": [
+      "pokemon-gold",
+      "pokemon-crystal"
+    ],
+    "generation": 2,
+    "region": "Johto",
+    "platform": "Game Boy Color",
+    "releaseDates": {
+      "jp": "1999-11-21",
+      "na": "2000-10-15",
+      "eu": "2001-04-06"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Chikorita",
+        "dexNumber": 152
+      },
+      {
+        "name": "Cyndaquil",
+        "dexNumber": 155
+      },
+      {
+        "name": "Totodile",
+        "dexNumber": 158
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Lugia",
+        "dexNumber": 249
+      }
+    ],
+    "features": [
+      "Deep-sea guardian Lugia resting in the Whirl Islands abyss",
+      "Held items mechanic allowing strategic passive combat benefits",
+      "Pokégear device featuring mobile phone calls, map card, and radio tuner",
+      "Special stat split into Special Attack and Special Defense attributes",
+      "Roaming Legendary Beasts: Entei, Raikou, and Suicune across Johto roads"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Falkner",
+        "type": "Flying",
+        "badge": "Zephyr Badge"
+      },
+      {
+        "name": "Bugsy",
+        "type": "Bug",
+        "badge": "Hive Badge"
+      },
+      {
+        "name": "Whitney",
+        "type": "Normal",
+        "badge": "Plain Badge"
+      },
+      {
+        "name": "Morty",
+        "type": "Ghost",
+        "badge": "Fog Badge"
+      },
+      {
+        "name": "Chuck",
+        "type": "Fighting",
+        "badge": "Storm Badge"
+      },
+      {
+        "name": "Jasmine",
+        "type": "Steel",
+        "badge": "Mineral Badge"
+      },
+      {
+        "name": "Pryce",
+        "type": "Ice",
+        "badge": "Glacier Badge"
+      },
+      {
+        "name": "Clair",
+        "type": "Dragon",
+        "badge": "Rising Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Will",
+        "type": "Psychic"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Karen",
+        "type": "Dark"
+      }
+    ],
+    "champion": "Lance",
+    "rival": "Silver",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Archer",
+      "goal": "Restoring the glory of Team Rocket and severing Slowpoke tails for illicit cash"
+    },
+    "trivia": [
+      "Lugia was originally created specifically for the second movie (The Power of One) by writer Takeshi Shudo before being adopted into the games.",
+      "The Silver Wing key item was required to access the deepest sanctuary of the Whirl Islands.",
+      "Karen of the Elite Four delivered the legendary quote about winning with your favorites rather than strong or weak Pokémon."
+    ],
+    "versionExclusives": [
+      "Ledyba",
+      "Ledian",
+      "Skarmory",
+      "Delibird",
+      "Phanpy",
+      "Donphan"
+    ],
+    "themeColor": "#A8A8A8",
+    "overview": "Listen closely to the tides! Pokémon Silver unveiled the enigmatic guardian of the seas, Lugia! Between breeding newfound species and challenging two complete continents, it stands as an enduring monument of adventure!",
+    "stats": {
+      "story": 9,
+      "graphics": 8,
+      "difficulty": 7,
+      "replayability": 10
+    }
+  },
+  {
+    "id": 7,
+    "slug": "pokemon-crystal",
+    "title": "Pokémon Crystal",
+    "pairedWith": [
+      "pokemon-gold",
+      "pokemon-silver"
+    ],
+    "generation": 2,
+    "region": "Johto",
+    "platform": "Game Boy Color",
+    "releaseDates": {
+      "jp": "2000-12-14",
+      "na": "2001-07-29",
+      "eu": "2001-11-02"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Chikorita",
+        "dexNumber": 152
+      },
+      {
+        "name": "Cyndaquil",
+        "dexNumber": 155
+      },
+      {
+        "name": "Totodile",
+        "dexNumber": 158
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Suicune",
+        "dexNumber": 245
+      }
+    ],
+    "features": [
+      "Historic choice to select a female protagonist (Kris) for the first time",
+      "Animated battle sprites greeting players at the start of every encounter",
+      "Battle Tower introduction: an endless endgame competitive trial",
+      "Expanded lore regarding Suicune and the enigmatic seeker Eusine",
+      "Mobile Adapter GB integration in Japan allowing remote mobile trading"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Falkner",
+        "type": "Flying",
+        "badge": "Zephyr Badge"
+      },
+      {
+        "name": "Bugsy",
+        "type": "Bug",
+        "badge": "Hive Badge"
+      },
+      {
+        "name": "Whitney",
+        "type": "Normal",
+        "badge": "Plain Badge"
+      },
+      {
+        "name": "Morty",
+        "type": "Ghost",
+        "badge": "Fog Badge"
+      },
+      {
+        "name": "Chuck",
+        "type": "Fighting",
+        "badge": "Storm Badge"
+      },
+      {
+        "name": "Jasmine",
+        "type": "Steel",
+        "badge": "Mineral Badge"
+      },
+      {
+        "name": "Pryce",
+        "type": "Ice",
+        "badge": "Glacier Badge"
+      },
+      {
+        "name": "Clair",
+        "type": "Dragon",
+        "badge": "Rising Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Will",
+        "type": "Psychic"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Karen",
+        "type": "Dark"
+      }
+    ],
+    "champion": "Lance",
+    "rival": "Silver",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Archer",
+      "goal": "Desperately trying to re-establish Team Rocket's hierarchy from Mahogany Town"
+    },
+    "trivia": [
+      "The first Pokémon cartridge made exclusively for the Game Boy Color, unable to run on the original monochrome Game Boy.",
+      "The Japanese version allowed players to obtain the mythical Celebi via the Mobile Adapter GB.",
+      "Kris's design set the standard for female protagonist options in all subsequent mainline titles."
+    ],
+    "versionExclusives": [
+      "Suicune",
+      "Spinarak",
+      "Ariados",
+      "Ledyba",
+      "Ledian",
+      "Gligar",
+      "Skarmory",
+      "Phanpy",
+      "Donphan"
+    ],
+    "themeColor": "#4FD5D6",
+    "overview": "Pure elegance crystallized in time! Pokémon Crystal brought motion to Pokémon sprites and welcomed young women into the role of Pokémon Champions, pursuing the north wind incarnate, Suicune!",
+    "stats": {
+      "story": 9,
+      "graphics": 9,
+      "difficulty": 8,
+      "replayability": 10
+    }
+  },
+  {
+    "id": 8,
+    "slug": "pokemon-ruby",
+    "title": "Pokémon Ruby",
+    "pairedWith": [
+      "pokemon-sapphire",
+      "pokemon-emerald"
+    ],
+    "generation": 3,
+    "region": "Hoenn",
+    "platform": "Game Boy Advance",
+    "releaseDates": {
+      "jp": "2002-11-21",
+      "na": "2003-03-19",
+      "eu": "2003-07-25"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Treecko",
+        "dexNumber": 252
+      },
+      {
+        "name": "Torchic",
+        "dexNumber": 255
+      },
+      {
+        "name": "Mudkip",
+        "dexNumber": 258
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Groudon",
+        "dexNumber": 383
+      }
+    ],
+    "features": [
+      "Invention of Pokémon Abilities and 25 distinct Natures",
+      "Double Battles introducing cooperative team synergy",
+      "Pokémon Contests scoring Cool, Beauty, Cute, Smart, and Tough moves",
+      "Secret Bases customizable with decorations and mats across trees and caves",
+      "Dynamic weather states including drought, downpours, and sandstorms"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Roxanne",
+        "type": "Rock",
+        "badge": "Stone Badge"
+      },
+      {
+        "name": "Brawly",
+        "type": "Fighting",
+        "badge": "Knuckle Badge"
+      },
+      {
+        "name": "Wattson",
+        "type": "Electric",
+        "badge": "Dynamo Badge"
+      },
+      {
+        "name": "Flannery",
+        "type": "Fire",
+        "badge": "Heat Badge"
+      },
+      {
+        "name": "Norman",
+        "type": "Normal",
+        "badge": "Balance Badge"
+      },
+      {
+        "name": "Winona",
+        "type": "Flying",
+        "badge": "Feather Badge"
+      },
+      {
+        "name": "Tate & Liza",
+        "type": "Psychic",
+        "badge": "Mind Badge"
+      },
+      {
+        "name": "Wallace",
+        "type": "Water",
+        "badge": "Rain Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Sidney",
+        "type": "Dark"
+      },
+      {
+        "name": "Phoebe",
+        "type": "Ghost"
+      },
+      {
+        "name": "Glacia",
+        "type": "Ice"
+      },
+      {
+        "name": "Drake",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Steven Stone",
+    "rival": "Brendan / May",
+    "villainTeam": {
+      "name": "Team Magma",
+      "leader": "Maxie",
+      "goal": "Awakening Groudon to evaporate the oceans and expand terrestrial landmass"
+    },
+    "trivia": [
+      "Norman is the first and only in-game biological father of the player character to serve as a Gym Leader.",
+      "Gen 3 completely rebuilt the internal data structure for Pokémon (IVs, EVs, PID), severing backward compatibility with Gen 1 and 2.",
+      "The Braille puzzles required to unlock the Legendary Titans (Regirock, Regice, Registeel) delighted codebreakers."
+    ],
+    "versionExclusives": [
+      "Seedot",
+      "Nuzleaf",
+      "Shiftry",
+      "Mawile",
+      "Zangoose",
+      "Solrock",
+      "Groudon"
+    ],
+    "themeColor": "#A00000",
+    "overview": "What radiant sunshine! Welcome to tropical Hoenn! Pokémon Ruby revolutionized competitive strategy with innate Abilities and Natures, while pitting trainers against the blazing terrestrial fury of ancient Groudon!",
+    "stats": {
+      "story": 8,
+      "graphics": 9,
+      "difficulty": 7,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 9,
+    "slug": "pokemon-sapphire",
+    "title": "Pokémon Sapphire",
+    "pairedWith": [
+      "pokemon-ruby",
+      "pokemon-emerald"
+    ],
+    "generation": 3,
+    "region": "Hoenn",
+    "platform": "Game Boy Advance",
+    "releaseDates": {
+      "jp": "2002-11-21",
+      "na": "2003-03-19",
+      "eu": "2003-07-25"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Treecko",
+        "dexNumber": 252
+      },
+      {
+        "name": "Torchic",
+        "dexNumber": 255
+      },
+      {
+        "name": "Mudkip",
+        "dexNumber": 258
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Kyogre",
+        "dexNumber": 382
+      }
+    ],
+    "features": [
+      "Underwater diving mechanics exploring trench beds and deep oceanic rifts",
+      "Eco-focused narrative confronting the oceanic expansionists of Team Aqua",
+      "Pokéblock crafting and Berry Blending for Contest preparation",
+      "Introduction of Ribbon rewards commemorating champion feats",
+      "Expansive water routes teeming with diverse pelagic species"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Roxanne",
+        "type": "Rock",
+        "badge": "Stone Badge"
+      },
+      {
+        "name": "Brawly",
+        "type": "Fighting",
+        "badge": "Knuckle Badge"
+      },
+      {
+        "name": "Wattson",
+        "type": "Electric",
+        "badge": "Dynamo Badge"
+      },
+      {
+        "name": "Flannery",
+        "type": "Fire",
+        "badge": "Heat Badge"
+      },
+      {
+        "name": "Norman",
+        "type": "Normal",
+        "badge": "Balance Badge"
+      },
+      {
+        "name": "Winona",
+        "type": "Flying",
+        "badge": "Feather Badge"
+      },
+      {
+        "name": "Tate & Liza",
+        "type": "Psychic",
+        "badge": "Mind Badge"
+      },
+      {
+        "name": "Wallace",
+        "type": "Water",
+        "badge": "Rain Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Sidney",
+        "type": "Dark"
+      },
+      {
+        "name": "Phoebe",
+        "type": "Ghost"
+      },
+      {
+        "name": "Glacia",
+        "type": "Ice"
+      },
+      {
+        "name": "Drake",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Steven Stone",
+    "rival": "Brendan / May",
+    "villainTeam": {
+      "name": "Team Aqua",
+      "leader": "Archie",
+      "goal": "Awakening Kyogre to trigger torrential rains and expand the ocean realm"
+    },
+    "trivia": [
+      "Kyogre's Drizzle ability permanently kept torrential rain active until another weather move or Pokémon canceled it.",
+      "Hoenn's soundtrack made prominent and beloved use of the GBA's synthetic brass instruments.",
+      "The Mach Bike and Acro Bike offered different physics and puzzle-solving tools for traversing mountains."
+    ],
+    "versionExclusives": [
+      "Lotad",
+      "Lombre",
+      "Ludicolo",
+      "Sableye",
+      "Seviper",
+      "Lunatone",
+      "Kyogre"
+    ],
+    "themeColor": "#0000C0",
+    "overview": "Dive into the mysterious azure deep! Pokémon Sapphire submerged players into Hoenn's magnificent ocean trenches, confronting Team Aqua and calming the cataclysmic deluges of Kyogre!",
+    "stats": {
+      "story": 8,
+      "graphics": 9,
+      "difficulty": 7,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 10,
+    "slug": "pokemon-firered",
+    "title": "Pokémon FireRed",
+    "pairedWith": [
+      "pokemon-leafgreen"
+    ],
+    "generation": 3,
+    "region": "Kanto",
+    "platform": "Game Boy Advance",
+    "releaseDates": {
+      "jp": "2004-01-29",
+      "na": "2004-09-09",
+      "eu": "2004-10-01"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Bulbasaur",
+        "dexNumber": 1
+      },
+      {
+        "name": "Charmander",
+        "dexNumber": 4
+      },
+      {
+        "name": "Squirtle",
+        "dexNumber": 7
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Charizard",
+        "dexNumber": 6
+      }
+    ],
+    "features": [
+      "Faithful, full-color remake of the inaugural Kanto journey on GBA hardware",
+      "Brand-new Sevii Islands archipelago introducing post-game Johto lore",
+      "Bundled with the Game Boy Advance Wireless Adapter for cordless trading",
+      "Help System and Fame Checker recording dialogue and lore tips",
+      "Teachy TV teaching novice trainers competitive battle fundamentals"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Brock",
+        "type": "Rock",
+        "badge": "Boulder Badge"
+      },
+      {
+        "name": "Misty",
+        "type": "Water",
+        "badge": "Cascade Badge"
+      },
+      {
+        "name": "Lt. Surge",
+        "type": "Electric",
+        "badge": "Thunder Badge"
+      },
+      {
+        "name": "Erika",
+        "type": "Grass",
+        "badge": "Rainbow Badge"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison",
+        "badge": "Soul Badge"
+      },
+      {
+        "name": "Sabrina",
+        "type": "Psychic",
+        "badge": "Marsh Badge"
+      },
+      {
+        "name": "Blaine",
+        "type": "Fire",
+        "badge": "Volcano Badge"
+      },
+      {
+        "name": "Giovanni",
+        "type": "Ground",
+        "badge": "Earth Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Lorelei",
+        "type": "Ice"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Agatha",
+        "type": "Ghost"
+      },
+      {
+        "name": "Lance",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Blue",
+    "rival": "Blue",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Giovanni",
+      "goal": "Controlling the Kanto underworld and exploiting the Sevii Islands' Ruby and Sapphire gems"
+    },
+    "trivia": [
+      "The Sevii Islands connected Kanto directly with Hoenn lore via the Ruby and Sapphire network machine.",
+      "Introduced female protagonist Leaf to the Kanto storyline for the very first time.",
+      "The Wireless Adapter let up to five players chat and trade in the Union Room without cables."
+    ],
+    "versionExclusives": [
+      "Ekans",
+      "Arbok",
+      "Oddish",
+      "Gloom",
+      "Vileplume",
+      "Psyduck",
+      "Golduck",
+      "Growlithe",
+      "Arcanine",
+      "Shellder",
+      "Cloyster",
+      "Scyther",
+      "Electabuzz"
+    ],
+    "themeColor": "#FF4500",
+    "overview": "Ah, Pallet Town! It warms my heart to see our humble beginnings rebuilt so vividly! Pokémon FireRed modernized Kanto with lush 32-bit visuals, Abilities, and the sprawling Sevii Islands!",
+    "stats": {
+      "story": 7,
+      "graphics": 8,
+      "difficulty": 6,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 11,
+    "slug": "pokemon-leafgreen",
+    "title": "Pokémon LeafGreen",
+    "pairedWith": [
+      "pokemon-firered"
+    ],
+    "generation": 3,
+    "region": "Kanto",
+    "platform": "Game Boy Advance",
+    "releaseDates": {
+      "jp": "2004-01-29",
+      "na": "2004-09-09",
+      "eu": "2004-10-01"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Bulbasaur",
+        "dexNumber": 1
+      },
+      {
+        "name": "Charmander",
+        "dexNumber": 4
+      },
+      {
+        "name": "Squirtle",
+        "dexNumber": 7
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Venusaur",
+        "dexNumber": 3
+      }
+    ],
+    "features": [
+      "Re-imagined retelling of the original Green version for international audiences",
+      "Wireless Union Room and Direct Corner multiplayer lobby features",
+      "National Dex quest unlocking Gen 2 species in the Sevii Islands",
+      "Remastered 8-bit classic soundtrack by Junichi Masuda and Go Ichinose",
+      "Vs. Seeker item allowing seamless rematches with outdoor trainers"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Brock",
+        "type": "Rock",
+        "badge": "Boulder Badge"
+      },
+      {
+        "name": "Misty",
+        "type": "Water",
+        "badge": "Cascade Badge"
+      },
+      {
+        "name": "Lt. Surge",
+        "type": "Electric",
+        "badge": "Thunder Badge"
+      },
+      {
+        "name": "Erika",
+        "type": "Grass",
+        "badge": "Rainbow Badge"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison",
+        "badge": "Soul Badge"
+      },
+      {
+        "name": "Sabrina",
+        "type": "Psychic",
+        "badge": "Marsh Badge"
+      },
+      {
+        "name": "Blaine",
+        "type": "Fire",
+        "badge": "Volcano Badge"
+      },
+      {
+        "name": "Giovanni",
+        "type": "Ground",
+        "badge": "Earth Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Lorelei",
+        "type": "Ice"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Agatha",
+        "type": "Ghost"
+      },
+      {
+        "name": "Lance",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Blue",
+    "rival": "Blue",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Giovanni",
+      "goal": "Harvesting Pokémon power while hunting legendary birds across Kanto"
+    },
+    "trivia": [
+      "Marks the first time western players officially experienced the 'Green' counterpart to Red in any format.",
+      "The Vs. Seeker battery charged dynamically as the player took 100 steps in the overworld.",
+      "Mewtwo's Cerulean Cave encounter required extensive Sevii Island gemstone quests to reopen."
+    ],
+    "versionExclusives": [
+      "Sandshrew",
+      "Sandslash",
+      "Vulpix",
+      "Ninetales",
+      "Bellsprout",
+      "Weepinbell",
+      "Victreebel",
+      "Slowpoke",
+      "Slowbro",
+      "Magmar",
+      "Pinsir",
+      "Marill",
+      "Azumarill"
+    ],
+    "themeColor": "#228B22",
+    "overview": "Nature flourishes in every pixel! Pokémon LeafGreen finally brought the spirit of Pocket Monsters Green across the seas, packaged with timeless Kanto gym battles and modern GBA mechanics!",
+    "stats": {
+      "story": 7,
+      "graphics": 8,
+      "difficulty": 6,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 12,
+    "slug": "pokemon-emerald",
+    "title": "Pokémon Emerald",
+    "pairedWith": [
+      "pokemon-ruby",
+      "pokemon-sapphire"
+    ],
+    "generation": 3,
+    "region": "Hoenn",
+    "platform": "Game Boy Advance",
+    "releaseDates": {
+      "jp": "2004-09-16",
+      "na": "2005-05-01",
+      "eu": "2005-06-09"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Treecko",
+        "dexNumber": 252
+      },
+      {
+        "name": "Torchic",
+        "dexNumber": 255
+      },
+      {
+        "name": "Mudkip",
+        "dexNumber": 258
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Rayquaza",
+        "dexNumber": 384
+      }
+    ],
+    "features": [
+      "Climactic dual-villain clash with Rayquaza descending from the ozone layer",
+      "Legendary Battle Frontier featuring 7 unique battle facilities and Frontier Brains",
+      "Animated battle sprites returned to the Game Boy Advance generation",
+      "Gym Leader rematches via the upgraded PokéNav Match Call feature",
+      "Breeding enhancements including Everstone nature passing and Flame Body hatching"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Roxanne",
+        "type": "Rock",
+        "badge": "Stone Badge"
+      },
+      {
+        "name": "Brawly",
+        "type": "Fighting",
+        "badge": "Knuckle Badge"
+      },
+      {
+        "name": "Wattson",
+        "type": "Electric",
+        "badge": "Dynamo Badge"
+      },
+      {
+        "name": "Flannery",
+        "type": "Fire",
+        "badge": "Heat Badge"
+      },
+      {
+        "name": "Norman",
+        "type": "Normal",
+        "badge": "Balance Badge"
+      },
+      {
+        "name": "Winona",
+        "type": "Flying",
+        "badge": "Feather Badge"
+      },
+      {
+        "name": "Tate & Liza",
+        "type": "Psychic",
+        "badge": "Mind Badge"
+      },
+      {
+        "name": "Juan",
+        "type": "Water",
+        "badge": "Rain Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Sidney",
+        "type": "Dark"
+      },
+      {
+        "name": "Phoebe",
+        "type": "Ghost"
+      },
+      {
+        "name": "Glacia",
+        "type": "Ice"
+      },
+      {
+        "name": "Drake",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Wallace",
+    "rival": "Brendan / May",
+    "villainTeam": {
+      "name": "Team Magma & Team Aqua",
+      "leader": "Maxie & Archie",
+      "goal": "Simultaneously triggering apocalypse through Groudon and Kyogre before Rayquaza intervenes"
+    },
+    "trivia": [
+      "The Battle Frontier in Emerald set an unmatched gold standard for endgame challenge in the franchise.",
+      "Juan replaced Wallace as the Sootopolis Gym Leader, allowing Wallace to step up as the Hoenn Champion.",
+      "Rayquaza's cutscene stopping Groudon and Kyogre is widely considered one of the coolest pixel cutscenes in gaming."
+    ],
+    "versionExclusives": [
+      "Rayquaza",
+      "Groudon",
+      "Kyogre",
+      "Mawile",
+      "Sableye"
+    ],
+    "themeColor": "#00A040",
+    "overview": "Behold the sky dragon's majestic descent! Pokémon Emerald united both terrestrial and marine legends under the awe-inspiring dominion of Rayquaza, capped off by the supreme challenge of the Battle Frontier!",
+    "stats": {
+      "story": 9,
+      "graphics": 9,
+      "difficulty": 9,
+      "replayability": 10
+    }
+  },
+  {
+    "id": 13,
+    "slug": "pokemon-diamond",
+    "title": "Pokémon Diamond",
+    "pairedWith": [
+      "pokemon-pearl",
+      "pokemon-platinum"
+    ],
+    "generation": 4,
+    "region": "Sinnoh",
+    "platform": "Nintendo DS",
+    "releaseDates": {
+      "jp": "2006-09-28",
+      "na": "2007-04-22",
+      "eu": "2007-07-27"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Turtwig",
+        "dexNumber": 387
+      },
+      {
+        "name": "Chimchar",
+        "dexNumber": 390
+      },
+      {
+        "name": "Piplup",
+        "dexNumber": 393
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Dialga",
+        "dexNumber": 483
+      }
+    ],
+    "features": [
+      "The game-changing Physical / Special move split by individual move mechanics",
+      "Nintendo Wi-Fi Connection introducing global online battling and trading",
+      "Global Trade System (GTS) enabling worldwide trade listings",
+      "The Underground allowing fossil excavation and underground secret bases",
+      "Pokétch dual-screen utility wristband with 25 diverse applications"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Roark",
+        "type": "Rock",
+        "badge": "Coal Badge"
+      },
+      {
+        "name": "Gardenia",
+        "type": "Grass",
+        "badge": "Forest Badge"
+      },
+      {
+        "name": "Maylene",
+        "type": "Fighting",
+        "badge": "Cobble Badge"
+      },
+      {
+        "name": "Crasher Wake",
+        "type": "Water",
+        "badge": "Fen Badge"
+      },
+      {
+        "name": "Fantina",
+        "type": "Ghost",
+        "badge": "Relic Badge"
+      },
+      {
+        "name": "Byron",
+        "type": "Steel",
+        "badge": "Mine Badge"
+      },
+      {
+        "name": "Candice",
+        "type": "Ice",
+        "badge": "Icicle Badge"
+      },
+      {
+        "name": "Volkner",
+        "type": "Electric",
+        "badge": "Beacon Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Aaron",
+        "type": "Bug"
+      },
+      {
+        "name": "Bertha",
+        "type": "Ground"
+      },
+      {
+        "name": "Flint",
+        "type": "Fire"
+      },
+      {
+        "name": "Lucian",
+        "type": "Psychic"
+      }
+    ],
+    "champion": "Cynthia",
+    "rival": "Barry",
+    "villainTeam": {
+      "name": "Team Galactic",
+      "leader": "Cyrus",
+      "goal": "Capturing Dialga atop Spear Pillar to eradicate emotion and forge a universe devoid of spirit"
+    },
+    "trivia": [
+      "The Physical/Special split finally allowed Pokémon like Gengar (Ghost/Poison) and Gyarados (Water/Flying) to use physical moves with high attack stats.",
+      "Cynthia's terrifying battle theme and diverse team spearheaded by Garchomp made her an enduring fan legend.",
+      "Flint of the Elite Four only had two actual Fire-types (Rapidash and Infernape) due to the limited Sinnoh regional dex."
+    ],
+    "versionExclusives": [
+      "Dialga",
+      "Cranidos",
+      "Rampardos",
+      "Murkrow",
+      "Honchkrow",
+      "Stunky",
+      "Skuntank",
+      "Scyther",
+      "Scizor"
+    ],
+    "themeColor": "#5A7FBF",
+    "overview": "Time itself pulses with anticipation! Welcome to snowy Sinnoh! Pokémon Diamond opened up the dual screens of the Nintendo DS, fundamentally perfecting competitive combat through the legendary Physical/Special split!",
+    "stats": {
+      "story": 9,
+      "graphics": 8,
+      "difficulty": 8,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 14,
+    "slug": "pokemon-pearl",
+    "title": "Pokémon Pearl",
+    "pairedWith": [
+      "pokemon-diamond",
+      "pokemon-platinum"
+    ],
+    "generation": 4,
+    "region": "Sinnoh",
+    "platform": "Nintendo DS",
+    "releaseDates": {
+      "jp": "2006-09-28",
+      "na": "2007-04-22",
+      "eu": "2007-07-27"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Turtwig",
+        "dexNumber": 387
+      },
+      {
+        "name": "Chimchar",
+        "dexNumber": 390
+      },
+      {
+        "name": "Piplup",
+        "dexNumber": 393
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Palkia",
+        "dexNumber": 484
+      }
+    ],
+    "features": [
+      "Spatial deity Palkia dominating the celestial crest of Mt. Coronet",
+      "Touch-screen navigation for PC boxes, party management, and Pokétch",
+      "Super Contests featuring dress-up visual evaluation and rhythm dance stages",
+      "Ball Capsules allowing customizable battle entrance particle seals",
+      "Voice chat capability supported through the Nintendo DS built-in microphone"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Roark",
+        "type": "Rock",
+        "badge": "Coal Badge"
+      },
+      {
+        "name": "Gardenia",
+        "type": "Grass",
+        "badge": "Forest Badge"
+      },
+      {
+        "name": "Maylene",
+        "type": "Fighting",
+        "badge": "Cobble Badge"
+      },
+      {
+        "name": "Crasher Wake",
+        "type": "Water",
+        "badge": "Fen Badge"
+      },
+      {
+        "name": "Fantina",
+        "type": "Ghost",
+        "badge": "Relic Badge"
+      },
+      {
+        "name": "Byron",
+        "type": "Steel",
+        "badge": "Mine Badge"
+      },
+      {
+        "name": "Candice",
+        "type": "Ice",
+        "badge": "Icicle Badge"
+      },
+      {
+        "name": "Volkner",
+        "type": "Electric",
+        "badge": "Beacon Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Aaron",
+        "type": "Bug"
+      },
+      {
+        "name": "Bertha",
+        "type": "Ground"
+      },
+      {
+        "name": "Flint",
+        "type": "Fire"
+      },
+      {
+        "name": "Lucian",
+        "type": "Psychic"
+      }
+    ],
+    "champion": "Cynthia",
+    "rival": "Barry",
+    "villainTeam": {
+      "name": "Team Galactic",
+      "leader": "Cyrus",
+      "goal": "Summoning Palkia with the Red Chain to warp spatial dimensions to his nihilistic whim"
+    },
+    "trivia": [
+      "Palkia's signature Spacial Rend move commands incredible critical hit ratios.",
+      "The GTS station in Jubilife City featured a giant spinning globe displaying trainer trade origins.",
+      "Sinnoh introduced gender differences in Pokémon sprites, such as female Pikachu having heart-shaped tails."
+    ],
+    "versionExclusives": [
+      "Palkia",
+      "Shieldon",
+      "Bastiodon",
+      "Misdreavus",
+      "Mismagius",
+      "Glameow",
+      "Purugly",
+      "Bonsly"
+    ],
+    "themeColor": "#E8A0C8",
+    "overview": "Dimensions warp and weave around us! In Pokémon Pearl, trainers scale the majestic peaks of Mt. Coronet to defend the very fabric of space against Team Galactic's heartless ambitions!",
+    "stats": {
+      "story": 9,
+      "graphics": 8,
+      "difficulty": 8,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 15,
+    "slug": "pokemon-platinum",
+    "title": "Pokémon Platinum",
+    "pairedWith": [
+      "pokemon-diamond",
+      "pokemon-pearl"
+    ],
+    "generation": 4,
+    "region": "Sinnoh",
+    "platform": "Nintendo DS",
+    "releaseDates": {
+      "jp": "2008-09-13",
+      "na": "2009-03-22",
+      "eu": "2009-05-22"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Turtwig",
+        "dexNumber": 387
+      },
+      {
+        "name": "Chimchar",
+        "dexNumber": 390
+      },
+      {
+        "name": "Piplup",
+        "dexNumber": 393
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Giratina",
+        "dexNumber": 487
+      }
+    ],
+    "features": [
+      "The mind-bending Distortion World featuring gravity-defying physics",
+      "Expanded Sinnoh Pokédex to 210 species resolving Fire-type rarity",
+      "Brand-new Battle Frontier with the Battle Factory, Castle, and Arcade",
+      "Upgraded battle surf and engine speed resolving Diamond and Pearl sluggishness",
+      "Vs. Recorder saving competitive Wi-Fi battle replays for sharing"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Roark",
+        "type": "Rock",
+        "badge": "Coal Badge"
+      },
+      {
+        "name": "Gardenia",
+        "type": "Grass",
+        "badge": "Forest Badge"
+      },
+      {
+        "name": "Fantina",
+        "type": "Ghost",
+        "badge": "Relic Badge"
+      },
+      {
+        "name": "Maylene",
+        "type": "Fighting",
+        "badge": "Cobble Badge"
+      },
+      {
+        "name": "Crasher Wake",
+        "type": "Water",
+        "badge": "Fen Badge"
+      },
+      {
+        "name": "Byron",
+        "type": "Steel",
+        "badge": "Mine Badge"
+      },
+      {
+        "name": "Candice",
+        "type": "Ice",
+        "badge": "Icicle Badge"
+      },
+      {
+        "name": "Volkner",
+        "type": "Electric",
+        "badge": "Beacon Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Aaron",
+        "type": "Bug"
+      },
+      {
+        "name": "Bertha",
+        "type": "Ground"
+      },
+      {
+        "name": "Flint",
+        "type": "Fire"
+      },
+      {
+        "name": "Lucian",
+        "type": "Psychic"
+      }
+    ],
+    "champion": "Cynthia",
+    "rival": "Barry",
+    "villainTeam": {
+      "name": "Team Galactic",
+      "leader": "Cyrus",
+      "goal": "Vanishing into the antimatter Distortion World after awakening Giratina's primal fury"
+    },
+    "trivia": [
+      "Giratina's Origin Forme is unlocked when holding the Griseous Orb or visiting the Distortion World.",
+      "Looker, the International Police detective, made his iconic debut in this title investigating Team Galactic.",
+      "The gym progression was tweaked, moving Fantina to the 3rd gym to prevent mid-game difficulty drops."
+    ],
+    "versionExclusives": [
+      "Giratina",
+      "Rotom",
+      "Scyther",
+      "Pinsir"
+    ],
+    "themeColor": "#888888",
+    "overview": "Where gravity bends and shadows lengthen! Pokémon Platinum perfected the Sinnoh odyssey, transporting daring trainers into the antimatter abyss of the Distortion World alongside Renegade Giratina!",
+    "stats": {
+      "story": 10,
+      "graphics": 9,
+      "difficulty": 9,
+      "replayability": 10
+    }
+  },
+  {
+    "id": 16,
+    "slug": "pokemon-heartgold",
+    "title": "Pokémon HeartGold",
+    "pairedWith": [
+      "pokemon-soulsilver"
+    ],
+    "generation": 4,
+    "region": "Johto",
+    "platform": "Nintendo DS",
+    "releaseDates": {
+      "jp": "2009-09-12",
+      "na": "2010-03-14",
+      "eu": "2010-03-26"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Chikorita",
+        "dexNumber": 152
+      },
+      {
+        "name": "Cyndaquil",
+        "dexNumber": 155
+      },
+      {
+        "name": "Totodile",
+        "dexNumber": 158
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Ho-Oh",
+        "dexNumber": 250
+      }
+    ],
+    "features": [
+      "Every single Pokémon capable of walking behind the player in the overworld",
+      "Bundled Pokéwalker pedometer accessory allowing real-world walking and catching",
+      "Pokéathlon minigames utilizing full touch-screen sports controls",
+      "GB Sounds key item swapping the entire DS soundtrack back to 8-bit chiptunes",
+      "All 16 Gym Badges across Johto and Kanto culminating in the Mt. Silver duel"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Falkner",
+        "type": "Flying",
+        "badge": "Zephyr Badge"
+      },
+      {
+        "name": "Bugsy",
+        "type": "Bug",
+        "badge": "Hive Badge"
+      },
+      {
+        "name": "Whitney",
+        "type": "Normal",
+        "badge": "Plain Badge"
+      },
+      {
+        "name": "Morty",
+        "type": "Ghost",
+        "badge": "Fog Badge"
+      },
+      {
+        "name": "Chuck",
+        "type": "Fighting",
+        "badge": "Storm Badge"
+      },
+      {
+        "name": "Jasmine",
+        "type": "Steel",
+        "badge": "Mineral Badge"
+      },
+      {
+        "name": "Pryce",
+        "type": "Ice",
+        "badge": "Glacier Badge"
+      },
+      {
+        "name": "Clair",
+        "type": "Dragon",
+        "badge": "Rising Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Will",
+        "type": "Psychic"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Karen",
+        "type": "Dark"
+      }
+    ],
+    "champion": "Lance",
+    "rival": "Silver",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Archer & Petrel",
+      "goal": "Reassembling the executive cadre and seizing control of Goldenrod City"
+    },
+    "trivia": [
+      "Widely celebrated among the community as the pinnacle of 2D Pokémon game design.",
+      "The Pokéwalker was tested by researchers and found to be one of the most accurate pedometers on the market.",
+      "Interacting with your following Pokémon reveals hundreds of unique contextual animations and emotional reactions."
+    ],
+    "versionExclusives": [
+      "Mantine",
+      "Spinarak",
+      "Ariados",
+      "Gligar",
+      "Phanpy",
+      "Donphan",
+      "Kyogre"
+    ],
+    "themeColor": "#B8860B",
+    "overview": "Heart and soul harmonized together! Pokémon HeartGold stands as an absolute love letter to the franchise, letting your dearest partner walk right behind you through two magnificent regions!",
+    "stats": {
+      "story": 10,
+      "graphics": 10,
+      "difficulty": 8,
+      "replayability": 10
+    }
+  },
+  {
+    "id": 17,
+    "slug": "pokemon-soulsilver",
+    "title": "Pokémon SoulSilver",
+    "pairedWith": [
+      "pokemon-heartgold"
+    ],
+    "generation": 4,
+    "region": "Johto",
+    "platform": "Nintendo DS",
+    "releaseDates": {
+      "jp": "2009-09-12",
+      "na": "2010-03-14",
+      "eu": "2010-03-26"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Chikorita",
+        "dexNumber": 152
+      },
+      {
+        "name": "Cyndaquil",
+        "dexNumber": 155
+      },
+      {
+        "name": "Totodile",
+        "dexNumber": 158
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Lugia",
+        "dexNumber": 249
+      }
+    ],
+    "features": [
+      "Breath-taking cinematic cutscene summoning Lugia behind the roaring waterfalls",
+      "Brand-new Johto Safari Zone customizable with dynamic terrestrial blocks",
+      "Battle Frontier imported directly from Platinum for premier endgame trials",
+      "Touch screen bottom menu interface allowing single-tap stylus management",
+      "Legendary Hoenn and Kanto encounters including Latias, Latios, and Groudon"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Falkner",
+        "type": "Flying",
+        "badge": "Zephyr Badge"
+      },
+      {
+        "name": "Bugsy",
+        "type": "Bug",
+        "badge": "Hive Badge"
+      },
+      {
+        "name": "Whitney",
+        "type": "Normal",
+        "badge": "Plain Badge"
+      },
+      {
+        "name": "Morty",
+        "type": "Ghost",
+        "badge": "Fog Badge"
+      },
+      {
+        "name": "Chuck",
+        "type": "Fighting",
+        "badge": "Storm Badge"
+      },
+      {
+        "name": "Jasmine",
+        "type": "Steel",
+        "badge": "Mineral Badge"
+      },
+      {
+        "name": "Pryce",
+        "type": "Ice",
+        "badge": "Glacier Badge"
+      },
+      {
+        "name": "Clair",
+        "type": "Dragon",
+        "badge": "Rising Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Will",
+        "type": "Psychic"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Karen",
+        "type": "Dark"
+      }
+    ],
+    "champion": "Lance",
+    "rival": "Silver",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Archer & Ariana",
+      "goal": "Restoring Giovanni's reign and pillaging Slowpoke Well"
+    },
+    "trivia": [
+      "Features a special in-game Celebi event revealing Silver's identity as Giovanni's estranged son.",
+      "The bottom screen remained persistently functional as a full menu interface without needing to pause the game.",
+      "Defeating Red unlocks Kanto starter gifts from Professor Oak and Hoenn starter gifts from Steven Stone."
+    ],
+    "versionExclusives": [
+      "Ledyba",
+      "Ledian",
+      "Delibird",
+      "Skarmory",
+      "Teddiursa",
+      "Ursaring",
+      "Groudon"
+    ],
+    "themeColor": "#708090",
+    "overview": "Listen to the song of the silver bell! Pokémon SoulSilver polished Johto's timeless heritage to mirror perfection, celebrating the bond between human and monster through every step of your journey!",
+    "stats": {
+      "story": 10,
+      "graphics": 10,
+      "difficulty": 8,
+      "replayability": 10
+    }
+  },
+  {
+    "id": 18,
+    "slug": "pokemon-black",
+    "title": "Pokémon Black",
+    "pairedWith": [
+      "pokemon-white"
+    ],
+    "generation": 5,
+    "region": "Unova",
+    "platform": "Nintendo DS",
+    "releaseDates": {
+      "jp": "2010-09-18",
+      "na": "2011-03-06",
+      "eu": "2011-03-04"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Snivy",
+        "dexNumber": 495
+      },
+      {
+        "name": "Tepig",
+        "dexNumber": 498
+      },
+      {
+        "name": "Oshawott",
+        "dexNumber": 501
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Reshiram",
+        "dexNumber": 643
+      }
+    ],
+    "features": [
+      "156 entirely new Pokémon: zero old species available until post-game credits",
+      "Deep thematic narrative exploring Pokémon liberation and moral philosophy",
+      "Fully animated battle sprites moving continuously during combat",
+      "Triple Battles and Rotation Battles introducing intense tactical options",
+      "Dynamic four-season system changing route maps every real-world month"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Cress / Chili / Cilan",
+        "type": "Trio",
+        "badge": "Trio Badge"
+      },
+      {
+        "name": "Lenora",
+        "type": "Normal",
+        "badge": "Basic Badge"
+      },
+      {
+        "name": "Burgh",
+        "type": "Bug",
+        "badge": "Insect Badge"
+      },
+      {
+        "name": "Elesa",
+        "type": "Electric",
+        "badge": "Bolt Badge"
+      },
+      {
+        "name": "Clay",
+        "type": "Ground",
+        "badge": "Quake Badge"
+      },
+      {
+        "name": "Skyla",
+        "type": "Flying",
+        "badge": "Jet Badge"
+      },
+      {
+        "name": "Brycen",
+        "type": "Ice",
+        "badge": "Freeze Badge"
+      },
+      {
+        "name": "Drayden",
+        "type": "Dragon",
+        "badge": "Legend Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Shauntal",
+        "type": "Ghost"
+      },
+      {
+        "name": "Grimsley",
+        "type": "Dark"
+      },
+      {
+        "name": "Caitlin",
+        "type": "Psychic"
+      },
+      {
+        "name": "Marshal",
+        "type": "Fighting"
+      }
+    ],
+    "champion": "Alder",
+    "rival": "Cheren & Bianca",
+    "villainTeam": {
+      "name": "Team Plasma",
+      "leader": "Ghetsis & N",
+      "goal": "Manipulating N to liberate all Pokémon so Ghetsis alone controls absolute power"
+    },
+    "trivia": [
+      "First mainline region based outside Japan, drawing aesthetic inspiration from New York City.",
+      "The narrative breaks traditional convention: the Champion battle is interrupted as N's Castle erupts from the earth.",
+      "Features Black City, an exclusive urban post-game zone filled with high-level trainers."
+    ],
+    "versionExclusives": [
+      "Reshiram",
+      "Cottonee",
+      "Whimsicott",
+      "Gothita",
+      "Gothorita",
+      "Gothitelle",
+      "Vullaby",
+      "Mandibuzz"
+    ],
+    "themeColor": "#333333",
+    "overview": "Truth and ideals clash in Unova! Pokémon Black dared to make trainers question the morality of catching Pokémon, introducing 156 brand-new creatures amidst a dramatic ideological confrontation!",
+    "stats": {
+      "story": 10,
+      "graphics": 9,
+      "difficulty": 8,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 19,
+    "slug": "pokemon-white",
+    "title": "Pokémon White",
+    "pairedWith": [
+      "pokemon-black"
+    ],
+    "generation": 5,
+    "region": "Unova",
+    "platform": "Nintendo DS",
+    "releaseDates": {
+      "jp": "2010-09-18",
+      "na": "2011-03-06",
+      "eu": "2011-03-04"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Snivy",
+        "dexNumber": 495
+      },
+      {
+        "name": "Tepig",
+        "dexNumber": 498
+      },
+      {
+        "name": "Oshawott",
+        "dexNumber": 501
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Zekrom",
+        "dexNumber": 644
+      }
+    ],
+    "features": [
+      "Pure unadulterated freshness: only Gen 5 Pokémon encounterable before Champion",
+      "White Forest: a tranquil natural preserve teeming with classic wild species",
+      "Musical Hall performances replacing traditional Pokémon Contests",
+      "Dynamic battle music shifting seamlessly when low on HP or facing a gym ace",
+      "C-Gear wireless hub linking Pass Power buffs and Entralink missions"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Cress / Chili / Cilan",
+        "type": "Trio",
+        "badge": "Trio Badge"
+      },
+      {
+        "name": "Lenora",
+        "type": "Normal",
+        "badge": "Basic Badge"
+      },
+      {
+        "name": "Burgh",
+        "type": "Bug",
+        "badge": "Insect Badge"
+      },
+      {
+        "name": "Elesa",
+        "type": "Electric",
+        "badge": "Bolt Badge"
+      },
+      {
+        "name": "Clay",
+        "type": "Ground",
+        "badge": "Quake Badge"
+      },
+      {
+        "name": "Skyla",
+        "type": "Flying",
+        "badge": "Jet Badge"
+      },
+      {
+        "name": "Brycen",
+        "type": "Ice",
+        "badge": "Freeze Badge"
+      },
+      {
+        "name": "Iris",
+        "type": "Dragon",
+        "badge": "Legend Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Shauntal",
+        "type": "Ghost"
+      },
+      {
+        "name": "Grimsley",
+        "type": "Dark"
+      },
+      {
+        "name": "Caitlin",
+        "type": "Psychic"
+      },
+      {
+        "name": "Marshal",
+        "type": "Fighting"
+      }
+    ],
+    "champion": "Alder",
+    "rival": "Cheren & Bianca",
+    "villainTeam": {
+      "name": "Team Plasma",
+      "leader": "Ghetsis & N",
+      "goal": "Dividing Pokémon and humanity under the philosophical banner of King N"
+    },
+    "trivia": [
+      "In White, young prodigy Iris serves as the 8th Gym Leader rather than the elder Drayden.",
+      "The Unova battle camera dynamically zoomed in and out during attacks, creating unparalleled visual kineticism on DS.",
+      "Zekrom's tail generator roars with lightning bolts to champion those fighting for pure ideals."
+    ],
+    "versionExclusives": [
+      "Zekrom",
+      "Petilil",
+      "Lilligant",
+      "Solosis",
+      "Duosion",
+      "Reuniclus",
+      "Rufflet",
+      "Braviary"
+    ],
+    "themeColor": "#D8D8D8",
+    "overview": "Seek the ideals of the world! Pokémon White presented a thrilling, mature narrative that proved Pokémon could craft unforgettable story arcs, championed by the thunderous roar of Zekrom!",
+    "stats": {
+      "story": 10,
+      "graphics": 9,
+      "difficulty": 8,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 20,
+    "slug": "pokemon-black-2",
+    "title": "Pokémon Black 2",
+    "pairedWith": [
+      "pokemon-white-2"
+    ],
+    "generation": 5,
+    "region": "Unova",
+    "platform": "Nintendo DS",
+    "releaseDates": {
+      "jp": "2012-06-23",
+      "na": "2012-10-07",
+      "eu": "2012-10-11"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Snivy",
+        "dexNumber": 495
+      },
+      {
+        "name": "Tepig",
+        "dexNumber": 498
+      },
+      {
+        "name": "Oshawott",
+        "dexNumber": 501
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Black Kyurem",
+        "dexNumber": 646
+      }
+    ],
+    "features": [
+      "First direct mainline numbered narrative sequel set two years after B&W",
+      "Pokémon World Tournament (PWT) allowing battles against EVERY past Gym Leader and Champion",
+      "Pokéstar Studios: script-based Hollywood film mini-game with custom battles",
+      "Memory Link syncing save data from original Black/White for exclusive flashbacks",
+      "Challenge Mode & Easy Mode difficulty keys unlocking post-game adjustments"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Cheren",
+        "type": "Normal",
+        "badge": "Basic Badge"
+      },
+      {
+        "name": "Roxie",
+        "type": "Poison",
+        "badge": "Toxic Badge"
+      },
+      {
+        "name": "Burgh",
+        "type": "Bug",
+        "badge": "Insect Badge"
+      },
+      {
+        "name": "Elesa",
+        "type": "Electric",
+        "badge": "Bolt Badge"
+      },
+      {
+        "name": "Clay",
+        "type": "Ground",
+        "badge": "Quake Badge"
+      },
+      {
+        "name": "Skyla",
+        "type": "Flying",
+        "badge": "Jet Badge"
+      },
+      {
+        "name": "Drayden",
+        "type": "Dragon",
+        "badge": "Legend Badge"
+      },
+      {
+        "name": "Marlon",
+        "type": "Water",
+        "badge": "Wave Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Shauntal",
+        "type": "Ghost"
+      },
+      {
+        "name": "Grimsley",
+        "type": "Dark"
+      },
+      {
+        "name": "Caitlin",
+        "type": "Psychic"
+      },
+      {
+        "name": "Marshal",
+        "type": "Fighting"
+      }
+    ],
+    "champion": "Iris",
+    "rival": "Hugh",
+    "villainTeam": {
+      "name": "Neo Team Plasma",
+      "leader": "Colress & Ghetsis",
+      "goal": "Freezing Unova solid using the Plasma Frigate cannon powered by Kyurem"
+    },
+    "trivia": [
+      "The Pokémon World Tournament is considered by many the finest celebratory battle facility in series history.",
+      "Features a 300-strong regional Pokédex mixing beloved old species with Gen 5 favorites right from Route 1.",
+      "The final mainline Pokémon release for the legendary Nintendo DS family."
+    ],
+    "versionExclusives": [
+      "Black Kyurem",
+      "Magby",
+      "Magmar",
+      "Magmortar",
+      "Buneary",
+      "Lopunny",
+      "Gothita line",
+      "Vullaby line",
+      "Heracross"
+    ],
+    "themeColor": "#1A1A1A",
+    "overview": "Two years later, Unova freezes over! Pokémon Black 2 delivered unmatched content volume, letting trainers compete in the grand Pokémon World Tournament alongside every historical Champion!",
+    "stats": {
+      "story": 9,
+      "graphics": 10,
+      "difficulty": 9,
+      "replayability": 10
+    }
+  },
+  {
+    "id": 21,
+    "slug": "pokemon-white-2",
+    "title": "Pokémon White 2",
+    "pairedWith": [
+      "pokemon-black-2"
+    ],
+    "generation": 5,
+    "region": "Unova",
+    "platform": "Nintendo DS",
+    "releaseDates": {
+      "jp": "2012-06-23",
+      "na": "2012-10-07",
+      "eu": "2012-10-11"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Snivy",
+        "dexNumber": 495
+      },
+      {
+        "name": "Tepig",
+        "dexNumber": 498
+      },
+      {
+        "name": "Oshawott",
+        "dexNumber": 501
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "White Kyurem",
+        "dexNumber": 646
+      }
+    ],
+    "features": [
+      "Direct continuation tracking Hugh's vendetta to reclaim his sister's Purrloin",
+      "Fusion mechanic: DNA Splicers merging Kyurem with Reshiram into White Kyurem",
+      "Join Avenue: bustling commercial shopping street leveled up by player interactions",
+      "Habitat List tracking completed route capture logs inside the Pokédex",
+      "Medal Rally achievement system featuring 255 unique accomplishment medals"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Cheren",
+        "type": "Normal",
+        "badge": "Basic Badge"
+      },
+      {
+        "name": "Roxie",
+        "type": "Poison",
+        "badge": "Toxic Badge"
+      },
+      {
+        "name": "Burgh",
+        "type": "Bug",
+        "badge": "Insect Badge"
+      },
+      {
+        "name": "Elesa",
+        "type": "Electric",
+        "badge": "Bolt Badge"
+      },
+      {
+        "name": "Clay",
+        "type": "Ground",
+        "badge": "Quake Badge"
+      },
+      {
+        "name": "Skyla",
+        "type": "Flying",
+        "badge": "Jet Badge"
+      },
+      {
+        "name": "Drayden",
+        "type": "Dragon",
+        "badge": "Legend Badge"
+      },
+      {
+        "name": "Marlon",
+        "type": "Water",
+        "badge": "Wave Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Shauntal",
+        "type": "Ghost"
+      },
+      {
+        "name": "Grimsley",
+        "type": "Dark"
+      },
+      {
+        "name": "Caitlin",
+        "type": "Psychic"
+      },
+      {
+        "name": "Marshal",
+        "type": "Fighting"
+      }
+    ],
+    "champion": "Iris",
+    "rival": "Hugh",
+    "villainTeam": {
+      "name": "Neo Team Plasma",
+      "leader": "Colress & Ghetsis",
+      "goal": "Weaponizing Kyurem's chilling overdrive to bring Unova beneath their heel"
+    },
+    "trivia": [
+      "White Treehollow provides a sprawling battle labyrinth ending in a shiny Gible or Dratini reward.",
+      "Iris ascending to the Champion throne with her celestial bedroom arena remains an unforgettable moment.",
+      "Colress's eccentric battle theme features an actual synthesized countdown timer."
+    ],
+    "versionExclusives": [
+      "White Kyurem",
+      "Elekid",
+      "Electabuzz",
+      "Electivire",
+      "Skitty",
+      "Delcatty",
+      "Solosis line",
+      "Rufflet line",
+      "Pinsir"
+    ],
+    "themeColor": "#EBEBEB",
+    "overview": "A triumphant finale to the sprite era! Pokémon White 2 packed the Nintendo DS to its absolute technological limits, pairing fusion mechanics with the pinnacle of 2D pixel battle art!",
+    "stats": {
+      "story": 9,
+      "graphics": 10,
+      "difficulty": 9,
+      "replayability": 10
+    }
+  },
+  {
+    "id": 22,
+    "slug": "pokemon-x",
+    "title": "Pokémon X",
+    "pairedWith": [
+      "pokemon-y"
+    ],
+    "generation": 6,
+    "region": "Kalos",
+    "platform": "Nintendo 3DS",
+    "releaseDates": {
+      "jp": "2013-10-12",
+      "na": "2013-10-12",
+      "eu": "2013-10-12"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Chespin",
+        "dexNumber": 650
+      },
+      {
+        "name": "Fennekin",
+        "dexNumber": 653
+      },
+      {
+        "name": "Froakie",
+        "dexNumber": 656
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Xerneas",
+        "dexNumber": 716
+      }
+    ],
+    "features": [
+      "Full leap into 3D polygonal models for all characters and over 700 Pokémon",
+      "Mega Evolution: temporary in-battle transcendent transformations",
+      "Introduction of Fairy-type: the first new elemental type in 14 years",
+      "Extensive Trainer Customization: clothes, haircuts, hats, and contact lenses",
+      "Player Search System (PSS) enabling instant peer-to-peer trading and Wonder Trade"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Viola",
+        "type": "Bug",
+        "badge": "Bug Badge"
+      },
+      {
+        "name": "Grant",
+        "type": "Rock",
+        "badge": "Cliff Badge"
+      },
+      {
+        "name": "Korrina",
+        "type": "Fighting",
+        "badge": "Rumble Badge"
+      },
+      {
+        "name": "Ramos",
+        "type": "Grass",
+        "badge": "Plant Badge"
+      },
+      {
+        "name": "Clemont",
+        "type": "Electric",
+        "badge": "Voltage Badge"
+      },
+      {
+        "name": "Valerie",
+        "type": "Fairy",
+        "badge": "Fairy Badge"
+      },
+      {
+        "name": "Olympia",
+        "type": "Psychic",
+        "badge": "Psychic Badge"
+      },
+      {
+        "name": "Wulfric",
+        "type": "Ice",
+        "badge": "Iceberg Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Malva",
+        "type": "Fire"
+      },
+      {
+        "name": "Siebold",
+        "type": "Water"
+      },
+      {
+        "name": "Wikstrom",
+        "type": "Steel"
+      },
+      {
+        "name": "Drasna",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Diantha",
+    "rival": "Serena / Calem",
+    "villainTeam": {
+      "name": "Team Flare",
+      "leader": "Lysandre",
+      "goal": "Firing the ancient Ultimate Weapon to exterminate life and preserve eternal beauty"
+    },
+    "trivia": [
+      "The first mainline Pokémon games released simultaneously worldwide on the very same date.",
+      "Wonder Trade was invented here, introducing the thrilling mystery of blind international trades.",
+      "Xerneas represents the concept of eternal life, resting as a sacred dormant tree for millennia."
+    ],
+    "versionExclusives": [
+      "Xerneas",
+      "Clauncher",
+      "Clawitzer",
+      "Swirlix",
+      "Slurpuff",
+      "Mega Charizard X",
+      "Mega Mewtwo X"
+    ],
+    "themeColor": "#025DA6",
+    "overview": "Magnifique! Welcome to the fashion capital of Kalos! Pokémon X propelled our world into glorious three dimensions, unleashing the awe-inspiring spectacle of Mega Evolution!",
+    "stats": {
+      "story": 7,
+      "graphics": 9,
+      "difficulty": 5,
+      "replayability": 8
+    }
+  },
+  {
+    "id": 23,
+    "slug": "pokemon-y",
+    "title": "Pokémon Y",
+    "pairedWith": [
+      "pokemon-x"
+    ],
+    "generation": 6,
+    "region": "Kalos",
+    "platform": "Nintendo 3DS",
+    "releaseDates": {
+      "jp": "2013-10-12",
+      "na": "2013-10-12",
+      "eu": "2013-10-12"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Chespin",
+        "dexNumber": 650
+      },
+      {
+        "name": "Fennekin",
+        "dexNumber": 653
+      },
+      {
+        "name": "Froakie",
+        "dexNumber": 656
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Yveltal",
+        "dexNumber": 717
+      }
+    ],
+    "features": [
+      "The destruction avowed by Yveltal balancing Kalosian life and death lore",
+      "Pokémon-Amie: petting, feeding Poké Puffs, and bonding with your monsters",
+      "Super Training: minigames providing transparent access to Effort Values (EVs)",
+      "Sky Battles and Horde Encounters pitting single battlers against 5 wild foes",
+      "Roller skates and directional analog movement across Parisian boulevards"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Viola",
+        "type": "Bug",
+        "badge": "Bug Badge"
+      },
+      {
+        "name": "Grant",
+        "type": "Rock",
+        "badge": "Cliff Badge"
+      },
+      {
+        "name": "Korrina",
+        "type": "Fighting",
+        "badge": "Rumble Badge"
+      },
+      {
+        "name": "Ramos",
+        "type": "Grass",
+        "badge": "Plant Badge"
+      },
+      {
+        "name": "Clemont",
+        "type": "Electric",
+        "badge": "Voltage Badge"
+      },
+      {
+        "name": "Valerie",
+        "type": "Fairy",
+        "badge": "Fairy Badge"
+      },
+      {
+        "name": "Olympia",
+        "type": "Psychic",
+        "badge": "Psychic Badge"
+      },
+      {
+        "name": "Wulfric",
+        "type": "Ice",
+        "badge": "Iceberg Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Malva",
+        "type": "Fire"
+      },
+      {
+        "name": "Siebold",
+        "type": "Water"
+      },
+      {
+        "name": "Wikstrom",
+        "type": "Steel"
+      },
+      {
+        "name": "Drasna",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Diantha",
+    "rival": "Serena / Calem",
+    "villainTeam": {
+      "name": "Team Flare",
+      "leader": "Lysandre",
+      "goal": "Activating the Ultimate Weapon to purge the world of human greed"
+    },
+    "trivia": [
+      "Fairy-type was specifically created to balance Dragon-type's competitive dominance since Gen 4.",
+      "Kalos was geographically inspired by France, with Lumiose City echoing Paris and its Eiffel Tower.",
+      "Yveltal's signature Oblivion Wing move drains immense HP from opponents into itself."
+    ],
+    "versionExclusives": [
+      "Yveltal",
+      "Skrelp",
+      "Dragalge",
+      "Spritzee",
+      "Aromatisse",
+      "Mega Charizard Y",
+      "Mega Mewtwo Y"
+    ],
+    "themeColor": "#EA1A3E",
+    "overview": "Spread the wings of destruction! In Pokémon Y, the skies of Kalos darken with the omen of Yveltal, challenging brave trainers to master Fairy-types and wield Mega Evolution with honor!",
+    "stats": {
+      "story": 7,
+      "graphics": 9,
+      "difficulty": 5,
+      "replayability": 8
+    }
+  },
+  {
+    "id": 24,
+    "slug": "pokemon-omega-ruby",
+    "title": "Pokémon Omega Ruby",
+    "pairedWith": [
+      "pokemon-alpha-sapphire"
+    ],
+    "generation": 6,
+    "region": "Hoenn",
+    "platform": "Nintendo 3DS",
+    "releaseDates": {
+      "jp": "2014-11-21",
+      "na": "2014-11-21",
+      "eu": "2014-11-28"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Treecko",
+        "dexNumber": 252
+      },
+      {
+        "name": "Torchic",
+        "dexNumber": 255
+      },
+      {
+        "name": "Mudkip",
+        "dexNumber": 258
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Primal Groudon",
+        "dexNumber": 383
+      }
+    ],
+    "features": [
+      "Primal Reversion unlocking prehistoric primordial titan powers",
+      "Soaring the Skies on Mega Latios / Latias in free-flight over Hoenn",
+      "DexNav sneaking mechanic tracking wild Pokémon with hidden abilities and egg moves",
+      "Delta Episode post-game quest journeying into outer space to shatter a meteor",
+      "Super-Secret Bases sharing customizable gyms via StreetPass and QR codes"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Roxanne",
+        "type": "Rock",
+        "badge": "Stone Badge"
+      },
+      {
+        "name": "Brawly",
+        "type": "Fighting",
+        "badge": "Knuckle Badge"
+      },
+      {
+        "name": "Wattson",
+        "type": "Electric",
+        "badge": "Dynamo Badge"
+      },
+      {
+        "name": "Flannery",
+        "type": "Fire",
+        "badge": "Heat Badge"
+      },
+      {
+        "name": "Norman",
+        "type": "Normal",
+        "badge": "Balance Badge"
+      },
+      {
+        "name": "Winona",
+        "type": "Flying",
+        "badge": "Feather Badge"
+      },
+      {
+        "name": "Tate & Liza",
+        "type": "Psychic",
+        "badge": "Mind Badge"
+      },
+      {
+        "name": "Wallace",
+        "type": "Water",
+        "badge": "Rain Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Sidney",
+        "type": "Dark"
+      },
+      {
+        "name": "Phoebe",
+        "type": "Ghost"
+      },
+      {
+        "name": "Glacia",
+        "type": "Ice"
+      },
+      {
+        "name": "Drake",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Steven Stone",
+    "rival": "Brendan / May & Wally",
+    "villainTeam": {
+      "name": "Team Magma",
+      "leader": "Maxie",
+      "goal": "Restoring Groudon's Primal Reversion with the Red Orb to scorch the sea"
+    },
+    "trivia": [
+      "Primal Groudon gains the Fire type and Desolate Land ability, which evaporates all incoming Water moves completely.",
+      "The Delta Episode introduces Zinnia and establishes the existence of alternate Pokémon multiverse timelines.",
+      "Mega Rayquaza is the only Pokémon able to Mega Evolve without holding a Mega Stone, requiring Dragon Ascent instead."
+    ],
+    "versionExclusives": [
+      "Primal Groudon",
+      "Seedot line",
+      "Mawile",
+      "Zangoose",
+      "Solrock",
+      "Latios",
+      "Reshiram",
+      "Palkia",
+      "Ho-Oh"
+    ],
+    "themeColor": "#CF3025",
+    "overview": "Revisit Hoenn like never before! Pokémon Omega Ruby delivered breathtaking aerial freedom, allowing trainers to take to the skies and witness the apocalyptic grandeur of Primal Groudon!",
+    "stats": {
+      "story": 9,
+      "graphics": 9,
+      "difficulty": 6,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 25,
+    "slug": "pokemon-alpha-sapphire",
+    "title": "Pokémon Alpha Sapphire",
+    "pairedWith": [
+      "pokemon-omega-ruby"
+    ],
+    "generation": 6,
+    "region": "Hoenn",
+    "platform": "Nintendo 3DS",
+    "releaseDates": {
+      "jp": "2014-11-21",
+      "na": "2014-11-21",
+      "eu": "2014-11-28"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Treecko",
+        "dexNumber": 252
+      },
+      {
+        "name": "Torchic",
+        "dexNumber": 255
+      },
+      {
+        "name": "Mudkip",
+        "dexNumber": 258
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Primal Kyogre",
+        "dexNumber": 382
+      }
+    ],
+    "features": [
+      "Primal Reversion awakening Kyogre's primordial Primordial Sea deluges",
+      "Mirage Spots hiding Legendary Pokémon spanning all past five generations",
+      "Cosplay Pikachu dressing up in unique competitive contest outfits",
+      "Revamped gym puzzles and lush 3D volcanic and oceanic biomes",
+      "Emotional musical score fully orchestrated with beloved brass arrangements"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Roxanne",
+        "type": "Rock",
+        "badge": "Stone Badge"
+      },
+      {
+        "name": "Brawly",
+        "type": "Fighting",
+        "badge": "Knuckle Badge"
+      },
+      {
+        "name": "Wattson",
+        "type": "Electric",
+        "badge": "Dynamo Badge"
+      },
+      {
+        "name": "Flannery",
+        "type": "Fire",
+        "badge": "Heat Badge"
+      },
+      {
+        "name": "Norman",
+        "type": "Normal",
+        "badge": "Balance Badge"
+      },
+      {
+        "name": "Winona",
+        "type": "Flying",
+        "badge": "Feather Badge"
+      },
+      {
+        "name": "Tate & Liza",
+        "type": "Psychic",
+        "badge": "Mind Badge"
+      },
+      {
+        "name": "Wallace",
+        "type": "Water",
+        "badge": "Rain Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Sidney",
+        "type": "Dark"
+      },
+      {
+        "name": "Phoebe",
+        "type": "Ghost"
+      },
+      {
+        "name": "Glacia",
+        "type": "Ice"
+      },
+      {
+        "name": "Drake",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Steven Stone",
+    "rival": "Brendan / May & Wally",
+    "villainTeam": {
+      "name": "Team Aqua",
+      "leader": "Archie",
+      "goal": "Restoring Kyogre to its primordial glory with the Blue Orb to flood the globe"
+    },
+    "trivia": [
+      "Wally's final battle on Victory Road with his Gallade Mega Evolving to an epic rock theme is a franchise highpoint.",
+      "Primal Kyogre's Primordial Sea ability nullifies all Fire-type attacks from functioning.",
+      "The DexNav radar beeped louder as you crept closer to rare creatures lurking in the tall grass."
+    ],
+    "versionExclusives": [
+      "Primal Kyogre",
+      "Lotad line",
+      "Sableye",
+      "Seviper",
+      "Lunatone",
+      "Latias",
+      "Zekrom",
+      "Dialga",
+      "Lugia"
+    ],
+    "themeColor": "#1768AC",
+    "overview": "The depths of the ocean call to us! Pokémon Alpha Sapphire reimagined Hoenn with staggering cinematic polish, inviting you to ride the torrential tides of Primal Kyogre across the Hoenn seas!",
+    "stats": {
+      "story": 9,
+      "graphics": 9,
+      "difficulty": 6,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 26,
+    "slug": "pokemon-sun",
+    "title": "Pokémon Sun",
+    "pairedWith": [
+      "pokemon-moon"
+    ],
+    "generation": 7,
+    "region": "Alola",
+    "platform": "Nintendo 3DS",
+    "releaseDates": {
+      "jp": "2016-11-18",
+      "na": "2016-11-18",
+      "eu": "2016-11-23"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Rowlet",
+        "dexNumber": 722
+      },
+      {
+        "name": "Litten",
+        "dexNumber": 725
+      },
+      {
+        "name": "Popplio",
+        "dexNumber": 728
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Solgaleo",
+        "dexNumber": 791
+      }
+    ],
+    "features": [
+      "Island Challenge replacing traditional Gyms with Totem Pokémon trials",
+      "Z-Moves: devastating once-per-battle ultimate powered kinetic strikes",
+      "Regional Variants: Alolan forms adapting Gen 1 classics to tropical climates",
+      "Removal of Hidden Machines (HMs) in favor of Ride Pokémon calling",
+      "Ultra Beasts: extraterrestrial entities originating from Ultra Space"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Hala",
+        "type": "Fighting",
+        "badge": "Melemele Kahuna"
+      },
+      {
+        "name": "Olivia",
+        "type": "Rock",
+        "badge": "Akala Kahuna"
+      },
+      {
+        "name": "Nanu",
+        "type": "Dark",
+        "badge": "Ula'ula Kahuna"
+      },
+      {
+        "name": "Hapu",
+        "type": "Ground",
+        "badge": "Poni Kahuna"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Hala",
+        "type": "Fighting"
+      },
+      {
+        "name": "Olivia",
+        "type": "Rock"
+      },
+      {
+        "name": "Acerola",
+        "type": "Ghost"
+      },
+      {
+        "name": "Kahili",
+        "type": "Flying"
+      }
+    ],
+    "champion": "Professor Kukui",
+    "rival": "Hau & Gladion",
+    "villainTeam": {
+      "name": "Team Skull & Aether Foundation",
+      "leader": "Guzma & Lusamine",
+      "goal": "Lusamine opening Ultra Wormholes to commune with Nihilego at any cost"
+    },
+    "trivia": [
+      "Released for the franchise's 20th anniversary celebration.",
+      "The player doesn't challenge an existing Champion; they establish the inaugural Alola Pokémon League as its first Champion.",
+      "Solgaleo is surprisingly Psychic/Steel despite being the sun emissary, referencing alchemy's devouring lion metaphor."
+    ],
+    "versionExclusives": [
+      "Solgaleo",
+      "Passimian",
+      "Turtonator",
+      "Alolan Vulpix",
+      "Alolan Ninetales",
+      "Buzzwole",
+      "Kartana"
+    ],
+    "themeColor": "#F5A623",
+    "overview": "Alola! Welcome to paradise! Pokémon Sun shattered twenty years of tradition by discarding HMs and Gyms for rich Island Trials, blessing us with radiant Solgaleo and tropical Alolan forms!",
+    "stats": {
+      "story": 9,
+      "graphics": 9,
+      "difficulty": 7,
+      "replayability": 8
+    }
+  },
+  {
+    "id": 27,
+    "slug": "pokemon-moon",
+    "title": "Pokémon Moon",
+    "pairedWith": [
+      "pokemon-sun"
+    ],
+    "generation": 7,
+    "region": "Alola",
+    "platform": "Nintendo 3DS",
+    "releaseDates": {
+      "jp": "2016-11-18",
+      "na": "2016-11-18",
+      "eu": "2016-11-23"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Rowlet",
+        "dexNumber": 722
+      },
+      {
+        "name": "Litten",
+        "dexNumber": 725
+      },
+      {
+        "name": "Popplio",
+        "dexNumber": 728
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Lunala",
+        "dexNumber": 792
+      }
+    ],
+    "features": [
+      "12-hour time shift: playing during day makes the game world nocturnal",
+      "Totem Pokémon calling SOS allies for intense tactical multi-target trials",
+      "Poké Pelago islands where boxed Pokémon harvest berries and train",
+      "Festival Plaza: multiplayer carnival for mini-missions and dye houses",
+      "Emotional character journey focused on Lillie and Nebby (Cosmog)"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Hala",
+        "type": "Fighting",
+        "badge": "Melemele Kahuna"
+      },
+      {
+        "name": "Olivia",
+        "type": "Rock",
+        "badge": "Akala Kahuna"
+      },
+      {
+        "name": "Nanu",
+        "type": "Dark",
+        "badge": "Ula'ula Kahuna"
+      },
+      {
+        "name": "Hapu",
+        "type": "Ground",
+        "badge": "Poni Kahuna"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Hala",
+        "type": "Fighting"
+      },
+      {
+        "name": "Olivia",
+        "type": "Rock"
+      },
+      {
+        "name": "Acerola",
+        "type": "Ghost"
+      },
+      {
+        "name": "Kahili",
+        "type": "Flying"
+      }
+    ],
+    "champion": "Professor Kukui",
+    "rival": "Hau & Gladion",
+    "villainTeam": {
+      "name": "Team Skull & Aether Foundation",
+      "leader": "Guzma & Lusamine",
+      "goal": "Using Cosmog to unleash extraterrestrial Ultra Beasts into Alola"
+    },
+    "trivia": [
+      "Because Moon is offset by 12 hours from the 3DS internal clock, nocturnal players experienced brilliant daytime sun.",
+      "Lunala transforms into its Full Moon phase when unleashing the terrifying Moongeist Beam attack.",
+      "Team Skull's rap gestures and hilarious self-awareness made Guzma an instant fan-favorite."
+    ],
+    "versionExclusives": [
+      "Lunala",
+      "Oranguru",
+      "Drampa",
+      "Alolan Sandshrew",
+      "Alolan Sandslash",
+      "Pheromosa",
+      "Celesteela"
+    ],
+    "themeColor": "#7B62A3",
+    "overview": "Under the silver moonlight of Alola! Pokémon Moon touched the hearts of trainers through Lillie's brave journey with Nebby, soaring under the luminous celestial wings of Lunala!",
+    "stats": {
+      "story": 9,
+      "graphics": 9,
+      "difficulty": 7,
+      "replayability": 8
+    }
+  },
+  {
+    "id": 28,
+    "slug": "pokemon-ultra-sun",
+    "title": "Pokémon Ultra Sun",
+    "pairedWith": [
+      "pokemon-ultra-moon"
+    ],
+    "generation": 7,
+    "region": "Alola",
+    "platform": "Nintendo 3DS",
+    "releaseDates": {
+      "jp": "2017-11-17",
+      "na": "2017-11-17",
+      "eu": "2017-11-17"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Rowlet",
+        "dexNumber": 722
+      },
+      {
+        "name": "Litten",
+        "dexNumber": 725
+      },
+      {
+        "name": "Popplio",
+        "dexNumber": 728
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Dusk Mane Necrozma",
+        "dexNumber": 800
+      }
+    ],
+    "features": [
+      "Climactic battle against Ultra Necrozma atop Megalo Tower",
+      "Ultra Warp Ride minigame steering through wormholes to alien worlds",
+      "Mantine Surf: trick-based oceanic transit linking Alola's islands",
+      "Episode RR confronting Team Rainbow Rocket featuring all past villain bosses",
+      "Battle Agency: renting competitive Pokémon for cooperative boss runs"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Hala",
+        "type": "Fighting",
+        "badge": "Melemele Kahuna"
+      },
+      {
+        "name": "Olivia",
+        "type": "Rock",
+        "badge": "Akala Kahuna"
+      },
+      {
+        "name": "Nanu",
+        "type": "Dark",
+        "badge": "Ula'ula Kahuna"
+      },
+      {
+        "name": "Hapu",
+        "type": "Ground",
+        "badge": "Poni Kahuna"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Molayne",
+        "type": "Steel"
+      },
+      {
+        "name": "Olivia",
+        "type": "Rock"
+      },
+      {
+        "name": "Acerola",
+        "type": "Ghost"
+      },
+      {
+        "name": "Kahili",
+        "type": "Flying"
+      }
+    ],
+    "champion": "Hau",
+    "rival": "Hau & Gladion",
+    "villainTeam": {
+      "name": "Team Rainbow Rocket & Ultra Recon Squad",
+      "leader": "Giovanni",
+      "goal": "Giovanni uniting villains from parallel dimensions to command an army of Ultra Beasts"
+    },
+    "trivia": [
+      "Ultra Necrozma's boss fight is notorious for sweeping unprepared teams with its astronomical stat boosts.",
+      "The final mainline Pokémon release for the entire Nintendo 3DS family.",
+      "Features every single past legendary Pokémon in the Ultra Space Wilds."
+    ],
+    "versionExclusives": [
+      "Dusk Mane Necrozma",
+      "Passimian",
+      "Turtonator",
+      "Alolan Vulpix line",
+      "Buzzwole",
+      "Kartana",
+      "Blacephalon",
+      "Houndour line"
+    ],
+    "themeColor": "#E8742A",
+    "overview": "A darker shadow looms over paradise! Pokémon Ultra Sun challenged trainers with the blinding radiance of Ultra Necrozma and an unforgettable showdown against Team Rainbow Rocket!",
+    "stats": {
+      "story": 9,
+      "graphics": 9,
+      "difficulty": 9,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 29,
+    "slug": "pokemon-ultra-moon",
+    "title": "Pokémon Ultra Moon",
+    "pairedWith": [
+      "pokemon-ultra-sun"
+    ],
+    "generation": 7,
+    "region": "Alola",
+    "platform": "Nintendo 3DS",
+    "releaseDates": {
+      "jp": "2017-11-17",
+      "na": "2017-11-17",
+      "eu": "2017-11-17"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "starters": [
+      {
+        "name": "Rowlet",
+        "dexNumber": 722
+      },
+      {
+        "name": "Litten",
+        "dexNumber": 725
+      },
+      {
+        "name": "Popplio",
+        "dexNumber": 728
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Dawn Wings Necrozma",
+        "dexNumber": 800
+      }
+    ],
+    "features": [
+      "Dawn Wings fusion uniting Necrozma with Lunala to consume moonlight",
+      "Expanded Alola Pokédex welcoming Poipole, Naganadel, and Stakataka",
+      "Alola Photo Club capturing snapshots with your Pokémon with stickers and frames",
+      "Totem Stickers hidden across islands rewarding colossal Totem-sized Pokémon",
+      "Mina's new Fairy-type Island Trial resolving the unfinished Sun/Moon questline"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Hala",
+        "type": "Fighting",
+        "badge": "Melemele Kahuna"
+      },
+      {
+        "name": "Olivia",
+        "type": "Rock",
+        "badge": "Akala Kahuna"
+      },
+      {
+        "name": "Nanu",
+        "type": "Dark",
+        "badge": "Ula'ula Kahuna"
+      },
+      {
+        "name": "Hapu",
+        "type": "Ground",
+        "badge": "Poni Kahuna"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Molayne",
+        "type": "Steel"
+      },
+      {
+        "name": "Olivia",
+        "type": "Rock"
+      },
+      {
+        "name": "Acerola",
+        "type": "Ghost"
+      },
+      {
+        "name": "Kahili",
+        "type": "Flying"
+      }
+    ],
+    "champion": "Hau",
+    "rival": "Hau & Gladion",
+    "villainTeam": {
+      "name": "Team Rainbow Rocket & Ultra Recon Squad",
+      "leader": "Giovanni",
+      "goal": "Subjugating parallel realities using the combined might of Team Magma, Aqua, Galactic, Plasma, and Flare"
+    },
+    "trivia": [
+      "Team Rainbow Rocket features alternate reality versions of villain leaders where they successfully achieved their evil plans.",
+      "Stakataka's design is based on a sentient stone fortress made of hundreds of individual eyes.",
+      "Molayne joined the Elite Four replacing Hala, specializing in defensive Steel-types."
+    ],
+    "versionExclusives": [
+      "Dawn Wings Necrozma",
+      "Oranguru",
+      "Drampa",
+      "Alolan Sandshrew line",
+      "Pheromosa",
+      "Celesteela",
+      "Stakataka",
+      "Electrike line"
+    ],
+    "themeColor": "#3E2D8F",
+    "overview": "Traverse the Ultra Wormholes! Pokémon Ultra Moon concluded the handheld Nintendo 3DS legacy with deep dimensional lore, interdimensional villain reunions, and ultimate Z-Power!",
+    "stats": {
+      "story": 9,
+      "graphics": 9,
+      "difficulty": 9,
+      "replayability": 9
+    }
+  },
+  {
+    "id": 30,
+    "slug": "pokemon-lets-go-pikachu",
+    "title": "Pokémon: Let's Go, Pikachu!",
+    "pairedWith": [
+      "pokemon-lets-go-eevee"
+    ],
+    "generation": 7,
+    "region": "Kanto",
+    "platform": "Nintendo Switch",
+    "releaseDates": {
+      "jp": "2018-11-16",
+      "na": "2018-11-16",
+      "eu": "2018-11-16"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokémon Company",
+    "starters": [
+      {
+        "name": "Pikachu",
+        "dexNumber": 25
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Pikachu",
+        "dexNumber": 25
+      }
+    ],
+    "features": [
+      "Overworld Pokémon spawns: eliminating random encounters completely",
+      "Motion-controlled catching mechanic inspired by Pokémon GO",
+      "Drop-in two-player local cooperative adventuring with a shared Joy-Con",
+      "Partner Pikachu riding on your shoulder with custom clothing and partner powers",
+      "Riding large Pokémon across water, land, and soaring over trees"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Brock",
+        "type": "Rock",
+        "badge": "Boulder Badge"
+      },
+      {
+        "name": "Misty",
+        "type": "Water",
+        "badge": "Cascade Badge"
+      },
+      {
+        "name": "Lt. Surge",
+        "type": "Electric",
+        "badge": "Thunder Badge"
+      },
+      {
+        "name": "Erika",
+        "type": "Grass",
+        "badge": "Rainbow Badge"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison",
+        "badge": "Soul Badge"
+      },
+      {
+        "name": "Sabrina",
+        "type": "Psychic",
+        "badge": "Marsh Badge"
+      },
+      {
+        "name": "Blaine",
+        "type": "Fire",
+        "badge": "Volcano Badge"
+      },
+      {
+        "name": "Giovanni",
+        "type": "Ground",
+        "badge": "Earth Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Lorelei",
+        "type": "Ice"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Agatha",
+        "type": "Ghost"
+      },
+      {
+        "name": "Lance",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Trace",
+    "rival": "Trace",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Giovanni",
+      "goal": "Classic Kanto schemes alongside anime icons Jessie, James, and Meowth"
+    },
+    "trivia": [
+      "First Pokémon mainline/core entry developed natively for high-definition television on Nintendo Switch.",
+      "Compatible with the Poké Ball Plus peripheral containing a real internal speaker and Mew gift.",
+      "Master Trainers populate the post-game, requiring 1-on-1 mirror matches with every single Kanto species."
+    ],
+    "versionExclusives": [
+      "Oddish line",
+      "Sandshrew line",
+      "Growlithe line",
+      "Gloom",
+      "Mankey line",
+      "Grimer line",
+      "Scyther"
+    ],
+    "themeColor": "#F5DA3C",
+    "overview": "Pikachu, let's go! Bringing Kanto into vibrant high definition, this accessible entry united Pokémon GO players with mainline veterans, showing wild Pokémon freely roaming the grass for the first time!",
+    "stats": {
+      "story": 7,
+      "graphics": 9,
+      "difficulty": 4,
+      "replayability": 8
+    }
+  },
+  {
+    "id": 31,
+    "slug": "pokemon-lets-go-eevee",
+    "title": "Pokémon: Let's Go, Eevee!",
+    "pairedWith": [
+      "pokemon-lets-go-pikachu"
+    ],
+    "generation": 7,
+    "region": "Kanto",
+    "platform": "Nintendo Switch",
+    "releaseDates": {
+      "jp": "2018-11-16",
+      "na": "2018-11-16",
+      "eu": "2018-11-16"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokémon Company",
+    "starters": [
+      {
+        "name": "Eevee",
+        "dexNumber": 133
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Eevee",
+        "dexNumber": 133
+      }
+    ],
+    "features": [
+      "Starter Eevee perching atop the player's cap with custom hairstyles",
+      "Exclusive Secret Techniques (Chop Down, Sea Skim) replacing all HM requirements",
+      "Partner Eevee learning unique elemental moves like Bouncy Bubble and Sizzly Slide",
+      "Seamless Pokémon GO connectivity via the GO Park in Fuchsia City",
+      "Meltan and Melmetal mythical integration debuting in the Pokémon world"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Brock",
+        "type": "Rock",
+        "badge": "Boulder Badge"
+      },
+      {
+        "name": "Misty",
+        "type": "Water",
+        "badge": "Cascade Badge"
+      },
+      {
+        "name": "Lt. Surge",
+        "type": "Electric",
+        "badge": "Thunder Badge"
+      },
+      {
+        "name": "Erika",
+        "type": "Grass",
+        "badge": "Rainbow Badge"
+      },
+      {
+        "name": "Koga",
+        "type": "Poison",
+        "badge": "Soul Badge"
+      },
+      {
+        "name": "Sabrina",
+        "type": "Psychic",
+        "badge": "Marsh Badge"
+      },
+      {
+        "name": "Blaine",
+        "type": "Fire",
+        "badge": "Volcano Badge"
+      },
+      {
+        "name": "Giovanni",
+        "type": "Ground",
+        "badge": "Earth Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Lorelei",
+        "type": "Ice"
+      },
+      {
+        "name": "Bruno",
+        "type": "Fighting"
+      },
+      {
+        "name": "Agatha",
+        "type": "Ghost"
+      },
+      {
+        "name": "Lance",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Trace",
+    "rival": "Trace",
+    "villainTeam": {
+      "name": "Team Rocket",
+      "leader": "Giovanni",
+      "goal": "Extorting Silph Co. and controlling the Lavender Town Pokémon Tower"
+    },
+    "trivia": [
+      "Eevee's partner voice is performed by renowned voice actress Aoi Yuki.",
+      "Features cameos from classic series legends Red, Blue, and Green as elite post-game bosses.",
+      "The capture combo mechanic rewarded players with higher shiny odds and IVs for catching the same species repeatedly."
+    ],
+    "versionExclusives": [
+      "Bellsprout line",
+      "Vulpix line",
+      "Meowth line",
+      "Koffing line",
+      "Ekans line",
+      "Pinsir"
+    ],
+    "themeColor": "#C77B30",
+    "overview": "Eevee's charming eyes shine bright! Pokémon: Let's Go, Eevee! made everyone's favorite evolution Pokémon the star of the show, proving that warmth, accessibility, and nostalgia make for pure magic!",
+    "stats": {
+      "story": 7,
+      "graphics": 9,
+      "difficulty": 4,
+      "replayability": 8
+    }
+  },
+  {
+    "id": 32,
+    "slug": "pokemon-sword",
+    "title": "Pokémon Sword",
+    "pairedWith": [
+      "pokemon-shield"
+    ],
+    "generation": 8,
+    "region": "Galar",
+    "platform": "Nintendo Switch",
+    "releaseDates": {
+      "jp": "2019-11-15",
+      "na": "2019-11-15",
+      "eu": "2019-11-15"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokémon Company",
+    "starters": [
+      {
+        "name": "Grookey",
+        "dexNumber": 810
+      },
+      {
+        "name": "Scorbunny",
+        "dexNumber": 813
+      },
+      {
+        "name": "Sobble",
+        "dexNumber": 816
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Zacian",
+        "dexNumber": 888
+      }
+    ],
+    "features": [
+      "Dynamax and Gigantamax: colossal three-turn battlefield size transformations",
+      "The Wild Area: vast open-camera wilderness teeming with roaming giants",
+      "Four-player cooperative Max Raid Battles in glowing Pokémon Dens",
+      "Pokémon Camp: cooking curry recipes and playing with your party",
+      "Stadium sports atmosphere: roaring crowds chanting with dynamic battle themes"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Milo",
+        "type": "Grass",
+        "badge": "Grass Badge"
+      },
+      {
+        "name": "Nessa",
+        "type": "Water",
+        "badge": "Water Badge"
+      },
+      {
+        "name": "Kabu",
+        "type": "Fire",
+        "badge": "Fire Badge"
+      },
+      {
+        "name": "Bea",
+        "type": "Fighting",
+        "badge": "Fighting Badge"
+      },
+      {
+        "name": "Opal",
+        "type": "Fairy",
+        "badge": "Fairy Badge"
+      },
+      {
+        "name": "Gordie",
+        "type": "Rock",
+        "badge": "Rock Badge"
+      },
+      {
+        "name": "Piers",
+        "type": "Dark",
+        "badge": "Dark Badge"
+      },
+      {
+        "name": "Raihan",
+        "type": "Dragon",
+        "badge": "Dragon Badge"
+      }
+    ],
+    "eliteFour": [],
+    "champion": "Leon",
+    "rival": "Hop, Bede & Marnie",
+    "villainTeam": {
+      "name": "Team Yell & Macro Cosmos",
+      "leader": "Chairman Rose",
+      "goal": "Awakening Eternatus to prevent a projected Galar energy crisis a millennium in the future"
+    },
+    "trivia": [
+      "First mainline Pokémon games to receive post-launch Expansion Pass DLC instead of a third version.",
+      "The battle theme in Gym stadiums incorporates actual recorded soccer stadium crowd chanting.",
+      "Zacian's Intrepid Sword ability immediately boosts its Attack stat upon entering battle, making it a competitive powerhouse."
+    ],
+    "versionExclusives": [
+      "Zacian",
+      "Farfetch'd (Galarian)",
+      "Sirfetch'd",
+      "Darumaka (Galarian)",
+      "Darmanitan (Galarian)",
+      "Stonjourner",
+      "Deino line",
+      "Jangmo-o line"
+    ],
+    "themeColor": "#00BFFF",
+    "overview": "Step onto the pitch as the crowd roars! Pokémon Sword turned Gym Battles into grand sporting spectacles in Galar, letting trainers supersize their favorites through the colossal spectacle of Dynamax!",
+    "stats": {
+      "story": 7,
+      "graphics": 8,
+      "difficulty": 6,
+      "replayability": 9
+    },
+    "dlc": [
+      {
+        "name": "The Isle of Armor",
+        "releaseDate": "2020-06-17"
+      },
+      {
+        "name": "The Crown Tundra",
+        "releaseDate": "2020-10-22"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "pokemon-shield",
+    "title": "Pokémon Shield",
+    "pairedWith": [
+      "pokemon-sword"
+    ],
+    "generation": 8,
+    "region": "Galar",
+    "platform": "Nintendo Switch",
+    "releaseDates": {
+      "jp": "2019-11-15",
+      "na": "2019-11-15",
+      "eu": "2019-11-15"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokémon Company",
+    "starters": [
+      {
+        "name": "Grookey",
+        "dexNumber": 810
+      },
+      {
+        "name": "Scorbunny",
+        "dexNumber": 813
+      },
+      {
+        "name": "Sobble",
+        "dexNumber": 816
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Zamazenta",
+        "dexNumber": 889
+      }
+    ],
+    "features": [
+      "The steadfast shield wolf Zamazenta repelling the Darkest Day",
+      "Version-exclusive Gym Leaders Allister (Ghost) and Melony (Ice)",
+      "Max Lair cooperative Dynamax Adventures exploring legendary dens",
+      "Extensive Galarian regional evolutions including Obstagoon and Cursola",
+      "Y-Comm networking for online stamps, trading, and instant battle invites"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Milo",
+        "type": "Grass",
+        "badge": "Grass Badge"
+      },
+      {
+        "name": "Nessa",
+        "type": "Water",
+        "badge": "Water Badge"
+      },
+      {
+        "name": "Kabu",
+        "type": "Fire",
+        "badge": "Fire Badge"
+      },
+      {
+        "name": "Allister",
+        "type": "Ghost",
+        "badge": "Ghost Badge"
+      },
+      {
+        "name": "Opal",
+        "type": "Fairy",
+        "badge": "Fairy Badge"
+      },
+      {
+        "name": "Melony",
+        "type": "Ice",
+        "badge": "Ice Badge"
+      },
+      {
+        "name": "Piers",
+        "type": "Dark",
+        "badge": "Dark Badge"
+      },
+      {
+        "name": "Raihan",
+        "type": "Dragon",
+        "badge": "Dragon Badge"
+      }
+    ],
+    "eliteFour": [],
+    "champion": "Leon",
+    "rival": "Hop, Bede & Marnie",
+    "villainTeam": {
+      "name": "Team Yell & Macro Cosmos",
+      "leader": "Chairman Rose",
+      "goal": "Harvesting Galar particles from Eternatus beneath the Wyndon stadium"
+    },
+    "trivia": [
+      "Piers is the first Gym Leader in Pokémon history who sings acapella and refuses to Dynamax his Pokémon.",
+      "The Crown Tundra DLC introduced Galarian forms of the legendary birds Articuno, Zapdos, and Moltres.",
+      "Leon's undefeated reputation and signature Charizard pose made him a central figure across the anime and games."
+    ],
+    "versionExclusives": [
+      "Zamazenta",
+      "Ponyta (Galarian)",
+      "Rapidash (Galarian)",
+      "Corsola (Galarian)",
+      "Cursola",
+      "Eiscue",
+      "Larvitar line",
+      "Goomy line"
+    ],
+    "themeColor": "#FF1493",
+    "overview": "Raise your shield against the storm! Pokémon Shield defended Galar with honor, offering cooperative Max Raid Battles in the Wild Area and heart-pounding stadium showdowns!",
+    "stats": {
+      "story": 7,
+      "graphics": 8,
+      "difficulty": 6,
+      "replayability": 9
+    },
+    "dlc": [
+      {
+        "name": "The Isle of Armor",
+        "releaseDate": "2020-06-17"
+      },
+      {
+        "name": "The Crown Tundra",
+        "releaseDate": "2020-10-22"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "pokemon-brilliant-diamond",
+    "title": "Pokémon Brilliant Diamond",
+    "pairedWith": [
+      "pokemon-shining-pearl"
+    ],
+    "generation": 8,
+    "region": "Sinnoh",
+    "platform": "Nintendo Switch",
+    "releaseDates": {
+      "jp": "2021-11-19",
+      "na": "2021-11-19",
+      "eu": "2021-11-19"
+    },
+    "developer": "ILCA",
+    "publisher": "Nintendo / The Pokémon Company",
+    "starters": [
+      {
+        "name": "Turtwig",
+        "dexNumber": 387
+      },
+      {
+        "name": "Chimchar",
+        "dexNumber": 390
+      },
+      {
+        "name": "Piplup",
+        "dexNumber": 393
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Dialga",
+        "dexNumber": 483
+      }
+    ],
+    "features": [
+      "Faithful top-down chibi art recreation of the original 2006 Sinnoh adventures",
+      "Grand Underground: massive subterranean network with elemental Pokémon Hideaways",
+      "Ramanas Park post-game sanctuary hosting past-generation Legendaries via slates",
+      "Modern quality-of-life: automatic EXP Share, autosave, and mobile box access",
+      "Following Pokémon returning across all of Sinnoh's nostalgic overworld"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Roark",
+        "type": "Rock",
+        "badge": "Coal Badge"
+      },
+      {
+        "name": "Gardenia",
+        "type": "Grass",
+        "badge": "Forest Badge"
+      },
+      {
+        "name": "Maylene",
+        "type": "Fighting",
+        "badge": "Cobble Badge"
+      },
+      {
+        "name": "Crasher Wake",
+        "type": "Water",
+        "badge": "Fen Badge"
+      },
+      {
+        "name": "Fantina",
+        "type": "Ghost",
+        "badge": "Relic Badge"
+      },
+      {
+        "name": "Byron",
+        "type": "Steel",
+        "badge": "Mine Badge"
+      },
+      {
+        "name": "Candice",
+        "type": "Ice",
+        "badge": "Icicle Badge"
+      },
+      {
+        "name": "Volkner",
+        "type": "Electric",
+        "badge": "Beacon Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Aaron",
+        "type": "Bug"
+      },
+      {
+        "name": "Bertha",
+        "type": "Ground"
+      },
+      {
+        "name": "Flint",
+        "type": "Fire"
+      },
+      {
+        "name": "Lucian",
+        "type": "Psychic"
+      }
+    ],
+    "champion": "Cynthia",
+    "rival": "Barry",
+    "villainTeam": {
+      "name": "Team Galactic",
+      "leader": "Cyrus",
+      "goal": "Summoning Dialga with the Red Chain to reset the space-time continuum"
+    },
+    "trivia": [
+      "The first mainline Pokémon games developed primarily by an outside studio (ILCA) rather than Game Freak.",
+      "Gym Leaders and Elite Four rematches feature competitive IVs, EVs, and held items that challenge seasoned veterans.",
+      "The Grand Underground Hideaways allowed players to catch rare Pokémon like Houndoom and Togepi before the Elite Four."
+    ],
+    "versionExclusives": [
+      "Dialga",
+      "Cranidos line",
+      "Murkrow line",
+      "Stunky line",
+      "Scyther line",
+      "Larvitar line",
+      "Raikou",
+      "Entei",
+      "Suicune",
+      "Ho-Oh"
+    ],
+    "themeColor": "#44679E",
+    "overview": "Sinnoh's diamonds sparkle anew! Brilliant Diamond faithfully preserved the charming tile-based layout of Generation 4, inviting a new generation into the Grand Underground to face Cynthia's ultimate challenge!",
+    "stats": {
+      "story": 8,
+      "graphics": 7,
+      "difficulty": 8,
+      "replayability": 8
+    }
+  },
+  {
+    "id": 35,
+    "slug": "pokemon-shining-pearl",
+    "title": "Pokémon Shining Pearl",
+    "pairedWith": [
+      "pokemon-brilliant-diamond"
+    ],
+    "generation": 8,
+    "region": "Sinnoh",
+    "platform": "Nintendo Switch",
+    "releaseDates": {
+      "jp": "2021-11-19",
+      "na": "2021-11-19",
+      "eu": "2021-11-19"
+    },
+    "developer": "ILCA",
+    "publisher": "Nintendo / The Pokémon Company",
+    "starters": [
+      {
+        "name": "Turtwig",
+        "dexNumber": 387
+      },
+      {
+        "name": "Chimchar",
+        "dexNumber": 390
+      },
+      {
+        "name": "Piplup",
+        "dexNumber": 393
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Palkia",
+        "dexNumber": 484
+      }
+    ],
+    "features": [
+      "Faithful restoration of Sinnoh's spatial adventure on the Nintendo Switch",
+      "Super Contest Shows upgraded into a full rhythmic visual performance stage",
+      "Customizable Poké Ball capsule seals displaying dynamic battle flare",
+      "Union Room wireless and local matchmaking for trading and card swapping",
+      "Competitive gym leader rematches equipped with competitive items and EVs"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Roark",
+        "type": "Rock",
+        "badge": "Coal Badge"
+      },
+      {
+        "name": "Gardenia",
+        "type": "Grass",
+        "badge": "Forest Badge"
+      },
+      {
+        "name": "Maylene",
+        "type": "Fighting",
+        "badge": "Cobble Badge"
+      },
+      {
+        "name": "Crasher Wake",
+        "type": "Water",
+        "badge": "Fen Badge"
+      },
+      {
+        "name": "Fantina",
+        "type": "Ghost",
+        "badge": "Relic Badge"
+      },
+      {
+        "name": "Byron",
+        "type": "Steel",
+        "badge": "Mine Badge"
+      },
+      {
+        "name": "Candice",
+        "type": "Ice",
+        "badge": "Icicle Badge"
+      },
+      {
+        "name": "Volkner",
+        "type": "Electric",
+        "badge": "Beacon Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Aaron",
+        "type": "Bug"
+      },
+      {
+        "name": "Bertha",
+        "type": "Ground"
+      },
+      {
+        "name": "Flint",
+        "type": "Fire"
+      },
+      {
+        "name": "Lucian",
+        "type": "Psychic"
+      }
+    ],
+    "champion": "Cynthia",
+    "rival": "Barry",
+    "villainTeam": {
+      "name": "Team Galactic",
+      "leader": "Cyrus",
+      "goal": "Harnessing Palkia's control over spatial dimensions to extinguish human sentiment"
+    },
+    "trivia": [
+      "ILCA's Junichi Masuda co-directed the project to ensure classic design principles were honored.",
+      "Diglett bonus meters in the Grand Underground temporarily doubled the chance of encountering shiny Pokémon in hideaways.",
+      "Cynthia's Flame Orb Milotic and Perfect-IV Garchomp surprised modern players who expected an easy remake."
+    ],
+    "versionExclusives": [
+      "Palkia",
+      "Shieldon line",
+      "Misdreavus line",
+      "Glameow line",
+      "Bonsly line",
+      "Bagon line",
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Lugia"
+    ],
+    "themeColor": "#D18CB4",
+    "overview": "The pearl of Sinnoh shines again! Shining Pearl brought back the snowdrifts of Route 216 and the sacred ruins of Celestic Town, delivering pure nostalgic charm to longtime fans!",
+    "stats": {
+      "story": 8,
+      "graphics": 7,
+      "difficulty": 8,
+      "replayability": 8
+    }
+  },
+  {
+    "id": 36,
+    "slug": "pokemon-legends-arceus",
+    "title": "Pokémon Legends: Arceus",
+    "pairedWith": [],
+    "generation": 8,
+    "region": "Hisui",
+    "platform": "Nintendo Switch",
+    "releaseDates": {
+      "jp": "2022-01-28",
+      "na": "2022-01-28",
+      "eu": "2022-01-28"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokémon Company",
+    "starters": [
+      {
+        "name": "Rowlet",
+        "dexNumber": 722
+      },
+      {
+        "name": "Cyndaquil",
+        "dexNumber": 155
+      },
+      {
+        "name": "Oshawott",
+        "dexNumber": 501
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Arceus",
+        "dexNumber": 493
+      }
+    ],
+    "features": [
+      "Revolutionary action-RPG mechanics: manual ball-throwing and agile roll-dodging",
+      "Seamless real-time wild encounters: battle, catch, or run without transition screens",
+      "Agile Style and Strong Style move masteries altering turn order and impact",
+      "Crafting ancient Poké Balls, smoke bombs, and baits from raw gathered materials",
+      "Terrifying Noble Pokémon boss encounters requiring frenzied balms to soothe"
+    ],
+    "gymLeaders": [],
+    "eliteFour": [],
+    "champion": "None (Survey Corps / Kamado)",
+    "rival": "Rei / Akari",
+    "villainTeam": {
+      "name": "Ginkgo Guild (Volo)",
+      "leader": "Volo",
+      "goal": "Collecting all creation plates to challenge Arceus and rebuild reality from scratch"
+    },
+    "trivia": [
+      "Hisui is ancient Sinnoh hundreds of years before humans and Pokémon lived in harmony.",
+      "The battle against Volo and his surprise second-phase Giratina is widely regarded as one of the hardest battles in franchise history.",
+      "Players could be directly knocked out by aggressive wild Pokémon, blacking out and dropping satchel items."
+    ],
+    "versionExclusives": [
+      "Hisuian Growlithe line",
+      "Hisuian Zorua line",
+      "Hisuian Voltorb line",
+      "Kleavor",
+      "Ursaluna",
+      "Basculegion",
+      "Sneasler",
+      "Overqwil",
+      "Enamorus"
+    ],
+    "themeColor": "#2B4B73",
+    "overview": "A daring leap into our forgotten past! Pokémon Legends: Arceus completely reinvented the Pokémon formula, dropping trainers into ancient Hisui where wild monsters were truly wild, dangerous, and untamed!",
+    "stats": {
+      "story": 10,
+      "graphics": 8,
+      "difficulty": 9,
+      "replayability": 10
+    }
+  },
+  {
+    "id": 37,
+    "slug": "pokemon-scarlet",
+    "title": "Pokémon Scarlet",
+    "pairedWith": [
+      "pokemon-violet"
+    ],
+    "generation": 9,
+    "region": "Paldea",
+    "platform": "Nintendo Switch",
+    "releaseDates": {
+      "jp": "2022-11-18",
+      "na": "2022-11-18",
+      "eu": "2022-11-18"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokémon Company",
+    "starters": [
+      {
+        "name": "Sprigatito",
+        "dexNumber": 906
+      },
+      {
+        "name": "Fuecoco",
+        "dexNumber": 909
+      },
+      {
+        "name": "Quaxly",
+        "dexNumber": 912
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Koraidon",
+        "dexNumber": 1007
+      }
+    ],
+    "features": [
+      "First true open-world mainline game: explore Paldea in any order without borders",
+      "Terastallization: crystalline jewel crowns altering Pokémon typing and powering moves",
+      "Three intertwining storylines: Victory Road, Path of Legends, and Starfall Street",
+      "Four-player open-world Union Circle co-op exploring the wilderness together",
+      "Prehistoric Paradox Pokémon originating from the Great Crater's ancient past"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Katy",
+        "type": "Bug",
+        "badge": "Bug Badge"
+      },
+      {
+        "name": "Brassius",
+        "type": "Grass",
+        "badge": "Grass Badge"
+      },
+      {
+        "name": "Iono",
+        "type": "Electric",
+        "badge": "Electric Badge"
+      },
+      {
+        "name": "Kofu",
+        "type": "Water",
+        "badge": "Water Badge"
+      },
+      {
+        "name": "Larry",
+        "type": "Normal",
+        "badge": "Normal Badge"
+      },
+      {
+        "name": "Ryme",
+        "type": "Ghost",
+        "badge": "Ghost Badge"
+      },
+      {
+        "name": "Tulip",
+        "type": "Psychic",
+        "badge": "Psychic Badge"
+      },
+      {
+        "name": "Grusha",
+        "type": "Ice",
+        "badge": "Ice Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Rika",
+        "type": "Ground"
+      },
+      {
+        "name": "Poppy",
+        "type": "Steel"
+      },
+      {
+        "name": "Larry",
+        "type": "Flying"
+      },
+      {
+        "name": "Hassel",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Geeta (Top Champion) & Nemona",
+    "rival": "Nemona, Arven & Penny",
+    "villainTeam": {
+      "name": "Team Star",
+      "leader": "Penny (Cassiopeia)",
+      "goal": "Rebellious academy students standing up against severe school bullying"
+    },
+    "trivia": [
+      "Larry is an exhausted everyday salaryman who works as both a Normal-type Gym Leader and Flying-type Elite Four member.",
+      "Koraidon doubles as your personal motorcycle-like mount, gaining swimming, climbing, and gliding abilities.",
+      "Area Zero and the climax regarding the AI Professor Sada deliver one of the most emotional sci-fi endings in the series."
+    ],
+    "versionExclusives": [
+      "Koraidon",
+      "Great Tusk",
+      "Scream Tail",
+      "Brute Bonnet",
+      "Flutter Mane",
+      "Slither Wing",
+      "Sandy Shocks",
+      "Roaring Moon",
+      "Armarouge",
+      "Larvitar line",
+      "Stonjourner"
+    ],
+    "themeColor": "#F04030",
+    "overview": "Embark on your Treasure Hunt! Pokémon Scarlet welcomed trainers to the Iberian-inspired vistas of Paldea, offering unbounded open-world freedom, sparkling Terastallization, and the prehistoric majesty of Koraidon!",
+    "stats": {
+      "story": 9,
+      "graphics": 7,
+      "difficulty": 6,
+      "replayability": 9
+    },
+    "dlc": [
+      {
+        "name": "The Teal Mask",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "name": "The Indigo Disk",
+        "releaseDate": "2023-12-14"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "pokemon-violet",
+    "title": "Pokémon Violet",
+    "pairedWith": [
+      "pokemon-scarlet"
+    ],
+    "generation": 9,
+    "region": "Paldea",
+    "platform": "Nintendo Switch",
+    "releaseDates": {
+      "jp": "2022-11-18",
+      "na": "2022-11-18",
+      "eu": "2022-11-18"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokémon Company",
+    "starters": [
+      {
+        "name": "Sprigatito",
+        "dexNumber": 906
+      },
+      {
+        "name": "Fuecoco",
+        "dexNumber": 909
+      },
+      {
+        "name": "Quaxly",
+        "dexNumber": 912
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Miraidon",
+        "dexNumber": 1008
+      }
+    ],
+    "features": [
+      "Futuristic robotic Paradox Pokémon arriving from millions of years in the future",
+      "Auto-battle 'Let's Go' command sending partner Pokémon to collect materials",
+      "Tera Raid Battles with continuous real-time input without waiting for turn queues",
+      "Picnic mechanic allowing custom sandwich crafting to boost encounter rates and shiny odds",
+      "Deep sci-fi expedition descending into the crystalline depths of the Great Crater"
+    ],
+    "gymLeaders": [
+      {
+        "name": "Katy",
+        "type": "Bug",
+        "badge": "Bug Badge"
+      },
+      {
+        "name": "Brassius",
+        "type": "Grass",
+        "badge": "Grass Badge"
+      },
+      {
+        "name": "Iono",
+        "type": "Electric",
+        "badge": "Electric Badge"
+      },
+      {
+        "name": "Kofu",
+        "type": "Water",
+        "badge": "Water Badge"
+      },
+      {
+        "name": "Larry",
+        "type": "Normal",
+        "badge": "Normal Badge"
+      },
+      {
+        "name": "Ryme",
+        "type": "Ghost",
+        "badge": "Ghost Badge"
+      },
+      {
+        "name": "Tulip",
+        "type": "Psychic",
+        "badge": "Psychic Badge"
+      },
+      {
+        "name": "Grusha",
+        "type": "Ice",
+        "badge": "Ice Badge"
+      }
+    ],
+    "eliteFour": [
+      {
+        "name": "Rika",
+        "type": "Ground"
+      },
+      {
+        "name": "Poppy",
+        "type": "Steel"
+      },
+      {
+        "name": "Larry",
+        "type": "Flying"
+      },
+      {
+        "name": "Hassel",
+        "type": "Dragon"
+      }
+    ],
+    "champion": "Geeta (Top Champion) & Nemona",
+    "rival": "Nemona, Arven & Penny",
+    "villainTeam": {
+      "name": "Team Star",
+      "leader": "Penny (Cassiopeia)",
+      "goal": "A group of outcast students running star bases across Paldea"
+    },
+    "trivia": [
+      "Miraidon is a cybernetic apex predator utilizing jet thrusters and digital particle eyes.",
+      "Iono is an eccentric VTuber and gym leader who live-streams gym challenge matches to her chat audience.",
+      "The Indigo Disk DLC lets players fully synchro-pilot and directly control any Pokémon in their party."
+    ],
+    "versionExclusives": [
+      "Miraidon",
+      "Iron Treads",
+      "Iron Bundle",
+      "Iron Hands",
+      "Iron Jugulis",
+      "Iron Moth",
+      "Iron Thorns",
+      "Iron Valiant",
+      "Ceruledge",
+      "Bagon line",
+      "Eiscue"
+    ],
+    "themeColor": "#7B2D8B",
+    "overview": "Step boldly into the distant future! Pokémon Violet introduced sleek neon aesthetics, cybernetic future forms, and boundless open-air cooperation, guided by the thrusters of Miraidon!",
+    "stats": {
+      "story": 9,
+      "graphics": 7,
+      "difficulty": 6,
+      "replayability": 9
+    },
+    "dlc": [
+      {
+        "name": "The Teal Mask",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "name": "The Indigo Disk",
+        "releaseDate": "2023-12-14"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "pokemon-legends-za",
+    "title": "Pokémon Legends: Z-A",
+    "pairedWith": [],
+    "generation": 9,
+    "region": "Kalos (Lumiose City)",
+    "platform": "Nintendo Switch / Nintendo Switch 2",
+    "releaseDates": {
+      "jp": "2025-10-16",
+      "na": "2025-10-16",
+      "eu": "2025-10-16"
+    },
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokémon Company",
+    "starters": [
+      {
+        "name": "Chespin",
+        "dexNumber": 650
+      },
+      {
+        "name": "Fennekin",
+        "dexNumber": 653
+      },
+      {
+        "name": "Froakie",
+        "dexNumber": 656
+      }
+    ],
+    "mascotPokemon": [
+      {
+        "name": "Zygarde",
+        "dexNumber": 718
+      }
+    ],
+    "features": [
+      "Urban redevelopment project set entirely within the boulevards of Lumiose City",
+      "Grand revival of Mega Evolution mechanic following a multi-year absence",
+      "Evolution of the action-RPG capture and real-time movement pioneered by Legends: Arceus",
+      "Deep exploration of Zygarde's order-maintaining environmental lore",
+      "Confirmed enhanced release for Nintendo Switch 2 alongside Nintendo Switch"
+    ],
+    "gymLeaders": [],
+    "eliteFour": [],
+    "champion": "TBA",
+    "rival": "TBA",
+    "villainTeam": {
+      "name": "TBA",
+      "leader": "TBA",
+      "goal": "TBA"
+    },
+    "trivia": [
+      "Officially announced on Pokémon Day (February 27, 2024) with a focus on an urban redevelopment plan to shape a city that belongs to both people and Pokémon.",
+      "Takes place completely within Lumiose City, making it the most focused geographic scope in mainline history.",
+      "Will feature a dedicated Nintendo Switch 2 edition with enhanced visual fidelity and frame rates."
+    ],
+    "versionExclusives": [
+      "Zygarde",
+      "Mega Evolution species"
+    ],
+    "themeColor": "#4A90D9",
+    "overview": "A grand vision for Lumiose City! Pokémon Legends: Z-A marks the triumphant return of Mega Evolution in an ambitious urban redevelopment adventure, harmonizing people and Pokémon under the watchful gaze of Zygarde!",
+    "stats": {
+      "story": 9,
+      "graphics": 9,
+      "difficulty": 8,
+      "replayability": 9
+    },
+    "isUpcoming": true,
+    "lastVerified": "2025-05-01"
+  }
+]
